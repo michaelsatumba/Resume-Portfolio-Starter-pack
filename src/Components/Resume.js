@@ -11,6 +11,14 @@ const Resume = ({ data }) => {
             {education.degree} <span>&bull;</span>
             <em className="date">{education.graduated}</em>
           </p>
+          <p className="info">
+            {education.degree2} <span>&bull;</span>
+            <em className="date">{education.graduated2}</em>
+          </p>
+          <p className="info">
+            {education.degree3} <span>&bull;</span>
+            <em className="date">{education.graduated2}</em>
+          </p>
           <p>{education.description}</p>
         </div>
       );
@@ -21,7 +29,7 @@ const Resume = ({ data }) => {
           <h3>{work.company}</h3>
           <p className="info">
             {work.title}
-            <span>&bull;</span> <em className="date">{work.years}</em>
+            <em className="date">{work.years}</em>
           </p>
           <p>{work.description}</p>
         </div>
