@@ -119,6 +119,12 @@
         "category": "",
         "image": "Metaverse.png",
         "url": "https://metaverse-chat1.vercel.app/"
+      },
+      {
+        "title": "Ventura County Open Mics",
+        "category": "",
+        "image": "VenturaCountyOpenMics.png",
+        "url": "https://ventura-county-open-mics.vercel.app/"
       }
     ]
   },
