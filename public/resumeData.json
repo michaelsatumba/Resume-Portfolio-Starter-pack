@@ -125,6 +125,12 @@
         "category": "",
         "image": "VenturaCountyOpenMics.png",
         "url": "https://ventura-county-open-mics.vercel.app/"
+      },
+      {
+        "title": "Memory Game",
+        "category": "",
+        "image": "MemoryGame.png",
+        "url": "https://michaelsatumba.github.io/Memory-Game/"
       }
     ]
   },
