@@ -149,6 +149,12 @@
         "category": "",
         "image": "ToDoList.png",
         "url": "https://calm-lowlands-49428.herokuapp.com/"
+      },
+      {
+        "title": "NFT Marketplace",
+        "category": "",
+        "image": "NFTMarketplace.png",
+        "url": "https://nftmarketplace-xi.vercel.app/"
       }
     ]
   },
