@@ -137,6 +137,12 @@
         "category": "",
         "image": "FitHub.png",
         "url": "http://100.26.92.104:3000/"
+      },
+      {
+        "title": "Blog",
+        "category": "",
+        "image": "Blog.png",
+        "url": "https://stormy-wildwood-85952.herokuapp.com/"
       }
     ]
   },
