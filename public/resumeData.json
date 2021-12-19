@@ -131,6 +131,12 @@
         "category": "",
         "image": "MemoryGame.png",
         "url": "https://michaelsatumba.github.io/Memory-Game/"
+      },
+      {
+        "title": "FitHub",
+        "category": "",
+        "image": "FitHub.png",
+        "url": "http://100.26.92.104:3000/"
       }
     ]
   },
