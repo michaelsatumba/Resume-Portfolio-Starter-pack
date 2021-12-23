@@ -155,6 +155,12 @@
         "category": "",
         "image": "NFT.png",
         "url": "https://nftmarketplace-xi.vercel.app/"
+      },
+      {
+        "title": "DrumKit",
+        "category": "",
+        "image": "DrumKit.png",
+        "url": "https://michaelsatumba.github.io/drum-it-out/"
       }
     ]
   },
