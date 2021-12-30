@@ -1,179 +1,179 @@
 {
-  "main": {
-    "name": "Michael Satumba",
-    "occupation": "Freelancer",
-    "description": "I eat, sleep, and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Michael! You might also know me as DJ Yellow. I've been coding for over 1 year now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies.",
-    "contactmessage": "Get in touch with me to be build something cool!",
-    "email": "mjsatumba@gmail.com",
-    "phone": "+01 1234567899",
-    "address": {
-      "street": "123 Dev Lane",
-      "city": "Oxnard",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
-    },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "https://docs.google.com/document/d/1Ik4kzdYjAWpcJNrk8f1S4joga9aUtb7862lyyDeDhG4/edit?usp=sharing",
-    "social": [
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCNyBRcLB29t5O3KI8RypL6A",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/michaelsatumba",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/michaelsatumba/",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/michaelsatumba/",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/michaelsatumba",
-        "className": "fa fa-github"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "My Programming Language Proficiency",
-    "education": [
-      {
-        "school": "San Francisco State University",
-        "degree": "Bachelor's Degree, Kinesiology",
-        "degree2": "Master's Degree, Kinesiology",
-        "degree3": "Graduate Certificate, Software Engineering",
-        "graduated": "May 2020",
-        "graduated2": "May 2022",
-        "description": "Minors in Atheltic Coaching & Communication"
-      }
-    ],
-    "work": [
-      {
-        "company": "Freelance",
-        "title": "",
-        "years": "May 2021 - Present",
-        "description": "Helping build applications for anyone who wants one."
-      }
-    ],
-    "skills": [
-      {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Solidity",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Lifter",
-        "category": "",
-        "image": "Lifter.png",
-        "url": "https://youtu.be/9fLxIIP33Yk"
-      },
-      {
-        "title": "Secrets",
-        "category": "",
-        "image": "Secrets.png",
-        "url": "https://peaceful-tor-75491.herokuapp.com/"
-      },
-      {
-        "title": "Uber",
-        "category": "",
-        "image": "Uber.png",
-        "url": "https://uber-clone-phi.vercel.app/"
-      },
-      {
-        "title": "Love Shuffle",
-        "category": "",
-        "image": "LoveShuffle.png",
-        "url": "https://michaelsatumba.github.io/Love-Shuffle/"
-      },
-      {
-        "title": "Metaverse",
-        "category": "",
-        "image": "Metaverse.png",
-        "url": "https://metaverse-chat1.vercel.app/"
-      },
-      {
-        "title": "Ventura County Open Mics",
-        "category": "",
-        "image": "VenturaCountyOpenMics.png",
-        "url": "https://ventura-county-open-mics.vercel.app/"
-      },
-      {
-        "title": "Memory Game",
-        "category": "",
-        "image": "MemoryGame.png",
-        "url": "https://michaelsatumba.github.io/Memory-Game/"
-      },
-      {
-        "title": "FitHub",
-        "category": "",
-        "image": "FitHub.png",
-        "url": "http://100.26.92.104:3000/"
-      },
-      {
-        "title": "Blog",
-        "category": "",
-        "image": "Blog.png",
-        "url": "https://stormy-wildwood-85952.herokuapp.com/"
-      },
-      {
-        "title": "ToDoList",
-        "category": "",
-        "image": "ToDoList.png",
-        "url": "https://calm-lowlands-49428.herokuapp.com/"
-      },
-      {
-        "title": "NFT Marketplace",
-        "category": "",
-        "image": "NFT.png",
-        "url": "https://nftmarketplace-xi.vercel.app/"
-      },
-      {
-        "title": "DrumKit",
-        "category": "",
-        "image": "DrumKit.png",
-        "url": "https://michaelsatumba.github.io/drum-it-out/"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Michael is absolutely excellent, his depth of knowledge & his help really meant a lot to us... I would definitely recommend.",
-        "user": "Visakh Nair"
-      },
-      {
-        "text": "Learning with Michael has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Erlo Tayamen"
-      }
-    ]
-  }
+	"main": {
+		"name": "Michael Satumba",
+		"occupation": "Freelancer",
+		"description": "I eat, sleep, and breathe React",
+		"image": "profilepic.jpg",
+		"bio": "Hi there! I am Michael! You might also know me as DJ Yellow. I've been coding for over 1 year now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies.",
+		"contactmessage": "Get in touch with me to be build something cool!",
+		"email": "mjsatumba@gmail.com",
+		"phone": "+01 1234567899",
+		"address": {
+			"street": "123 Dev Lane",
+			"city": "Oxnard",
+			"state": "Devosphere",
+			"zip": "W3B D3V"
+		},
+		"website": "https://www.papareact.com/course",
+		"resumedownload": "https://docs.google.com/document/d/16yjy2dBKyhJdDDyADpSvk7GnyyavBhrgvlC46JCmGw0/edit?usp=sharing",
+		"social": [
+			{
+				"name": "youtube",
+				"url": "https://www.youtube.com/channel/UCNyBRcLB29t5O3KI8RypL6A",
+				"className": "fa fa-youtube"
+			},
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/michaelsatumba",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/michaelsatumba/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/michaelsatumba/",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/michaelsatumba",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "My Programming Language Proficiency",
+		"education": [
+			{
+				"school": "San Francisco State University",
+				"degree": "Bachelor's Degree, Kinesiology",
+				"degree2": "Master's Degree, Kinesiology",
+				"degree3": "Graduate Certificate, Software Engineering",
+				"graduated": "May 2020",
+				"graduated2": "May 2022",
+				"description": "Minors in Atheltic Coaching & Communication"
+			}
+		],
+		"work": [
+			{
+				"company": "Freelance",
+				"title": "",
+				"years": "May 2021 - Present",
+				"description": "Helping build applications for anyone who wants one."
+			}
+		],
+		"skills": [
+			{
+				"name": "ReactJs",
+				"level": "100%"
+			},
+			{
+				"name": "Solidity",
+				"level": "85%"
+			},
+			{
+				"name": "Git",
+				"level": "70%"
+			},
+			{
+				"name": "JavaScript",
+				"level": "99%"
+			},
+			{
+				"name": "Web Development",
+				"level": "95%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Lifter",
+				"category": "",
+				"image": "Lifter.png",
+				"url": "https://youtu.be/9fLxIIP33Yk"
+			},
+			{
+				"title": "Secrets",
+				"category": "",
+				"image": "Secrets.png",
+				"url": "https://peaceful-tor-75491.herokuapp.com/"
+			},
+			{
+				"title": "Uber",
+				"category": "",
+				"image": "Uber.png",
+				"url": "https://uber-clone-phi.vercel.app/"
+			},
+			{
+				"title": "Love Shuffle",
+				"category": "",
+				"image": "LoveShuffle.png",
+				"url": "https://michaelsatumba.github.io/Love-Shuffle/"
+			},
+			{
+				"title": "Metaverse",
+				"category": "",
+				"image": "Metaverse.png",
+				"url": "https://metaverse-chat1.vercel.app/"
+			},
+			{
+				"title": "Ventura County Open Mics",
+				"category": "",
+				"image": "VenturaCountyOpenMics.png",
+				"url": "https://ventura-county-open-mics.vercel.app/"
+			},
+			{
+				"title": "Memory Game",
+				"category": "",
+				"image": "MemoryGame.png",
+				"url": "https://michaelsatumba.github.io/Memory-Game/"
+			},
+			{
+				"title": "FitHub",
+				"category": "",
+				"image": "FitHub.png",
+				"url": "http://100.26.92.104:3000/"
+			},
+			{
+				"title": "Blog",
+				"category": "",
+				"image": "Blog.png",
+				"url": "https://stormy-wildwood-85952.herokuapp.com/"
+			},
+			{
+				"title": "ToDoList",
+				"category": "",
+				"image": "ToDoList.png",
+				"url": "https://calm-lowlands-49428.herokuapp.com/"
+			},
+			{
+				"title": "NFT Marketplace",
+				"category": "",
+				"image": "NFT.png",
+				"url": "https://nftmarketplace-xi.vercel.app/"
+			},
+			{
+				"title": "DrumKit",
+				"category": "",
+				"image": "DrumKit.png",
+				"url": "https://michaelsatumba.github.io/drum-it-out/"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "Michael is absolutely excellent, his depth of knowledge & his help really meant a lot to us... I would definitely recommend.",
+				"user": "Visakh Nair"
+			},
+			{
+				"text": "Learning with Michael has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+				"user": "Erlo Tayamen"
+			}
+		]
+	}
 }
