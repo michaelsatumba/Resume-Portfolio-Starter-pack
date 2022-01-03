@@ -1,10 +1,10 @@
 {
 	"main": {
 		"name": "Michael Satumba",
-		"occupation": "Freelancer",
-		"description": "A developer focused in Kinesiology",
+		"occupation": "A developer focused in Kinesiology",
+		"description": "",
 		"image": "profilepic.jpg",
-		"bio": "Hi there! I am Michael! You might also know me as DJ Yellow. I've been coding for over 1 year now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies.",
+		"bio": "Hi there! I am Michael! You might also know me as DJ Yellow. I've been coding for over 1 year now. As a Full Stack Developer I've worked with startups to help build & scale their companies.",
 		"contactmessage": "Get in touch with me to be build something cool!",
 		"email": "mjsatumba@gmail.com",
 		"phone": "+01 1234567899",
@@ -59,27 +59,49 @@
 		],
 		"work": [
 			{
-				"company": "Freelance",
-				"title": "",
-				"years": "May 2021 - Present",
-				"description": "Helping build applications for anyone who wants one."
+				"company": "Lifter",
+				"title": "Team Lead",
+				"years": "November 2021 - Present",
+				"description": "Gathered multiple developers to collaborate with me for a project that matches people based on workout interests"
+			},
+			{
+				"company": "Streamed",
+				"title": "Front End Lead",
+				"years": "November 2021 - Present",
+				"description": "Built a web application that helps users find, track, and share anime"
+			},
+			{
+				"company": "Freelancer",
+				"title": "Full-Stack Web Developer",
+				"years": "April 2021 - Present",
+				"description": "Created an app that helps users find a form of transportation between 2 addresses",
+				"description1": "Provided free website construction to advertise businesses and general marketability"
+			},
+			{
+				"company": "Kinesiology Master's Thesis",
+				"title": "Full-Stack Web Developer & Researcher",
+				"years": "November 2021 - May 2022",
+				"description": "Constructed a fitness application that customizes unique exercise experiences for workout partners"
+			},
+			{
+				"company": "The Complete 2021 Web Development Bootcamp",
+				"title": "Student",
+				"years": "March 2021 - September 2021",
+				"description": "Designed a Secrets app where users can log in via 2-factor authentication & submit their secrets privately",
+				"description1": "Built 20+ websites that utilize HTML, CSS, & JS"
 			}
 		],
 		"skills": [
 			{
-				"name": "ReactJs",
+				"name": "JavaScript",
 				"level": "100%"
-			},
-			{
-				"name": "Solidity",
-				"level": "85%"
 			},
 			{
 				"name": "Git",
 				"level": "70%"
 			},
 			{
-				"name": "JavaScript",
+				"name": "ReactJs",
 				"level": "99%"
 			},
 			{
