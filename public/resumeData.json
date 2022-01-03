@@ -2,19 +2,19 @@
 	"main": {
 		"name": "Michael Satumba",
 		"occupation": "Freelancer",
-		"description": "I eat, sleep, and breathe React",
+		"description": "A developer focused in Kinesiology",
 		"image": "profilepic.jpg",
 		"bio": "Hi there! I am Michael! You might also know me as DJ Yellow. I've been coding for over 1 year now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies.",
 		"contactmessage": "Get in touch with me to be build something cool!",
 		"email": "mjsatumba@gmail.com",
 		"phone": "+01 1234567899",
 		"address": {
-			"street": "123 Dev Lane",
+			"street": "123 Developer Lane",
 			"city": "Oxnard",
-			"state": "Devosphere",
+			"state": "California",
 			"zip": "W3B D3V"
 		},
-		"website": "https://www.papareact.com/course",
+		"website": "https://mkeport.vercel.app/",
 		"resumedownload": "https://docs.google.com/document/d/16yjy2dBKyhJdDDyADpSvk7GnyyavBhrgvlC46JCmGw0/edit?usp=sharing",
 		"social": [
 			{
