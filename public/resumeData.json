@@ -119,6 +119,18 @@
 				"url": "https://youtu.be/9fLxIIP33Yk"
 			},
 			{
+				"title": "NFT Marketplace",
+				"category": "",
+				"image": "NFT.png",
+				"url": "https://nftmarketplace-xi.vercel.app/"
+			},
+			{
+				"title": "Uno",
+				"category": "",
+				"image": "Uno.png",
+				"url": "https://salty-plains-39190.herokuapp.com/"
+			},
+			{
 				"title": "Secrets",
 				"category": "",
 				"image": "Secrets.png",
@@ -149,6 +161,12 @@
 				"url": "https://ventura-county-open-mics.vercel.app/"
 			},
 			{
+				"title": "PhotoApp",
+				"category": "",
+				"image": "PhotoApp.png",
+				"url": "https://www.youtube.com/watch?v=_VmuTgwfs54&t=11s"
+			},
+			{
 				"title": "Memory Game",
 				"category": "",
 				"image": "MemoryGame.png",
@@ -171,12 +189,6 @@
 				"category": "",
 				"image": "ToDoList.png",
 				"url": "https://calm-lowlands-49428.herokuapp.com/"
-			},
-			{
-				"title": "NFT Marketplace",
-				"category": "",
-				"image": "NFT.png",
-				"url": "https://nftmarketplace-xi.vercel.app/"
 			},
 			{
 				"title": "DrumKit",
