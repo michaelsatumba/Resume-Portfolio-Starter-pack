@@ -89,6 +89,27 @@
 				"years": "March 2021 - September 2021",
 				"description": "Designed a Secrets app where users can log in via 2-factor authentication & submit their secrets privately",
 				"description1": "Built 20+ websites that utilize HTML, CSS, & JS"
+			},
+			{
+				"company": "CSC 867 Advanced Internet Application Design and Development",
+				"title": "Student",
+				"years": "August 2021 - December 2021",
+				"description": "Worked in a team of two to build a Web Server using Java",
+				"description1": "Participated within a four person team to re-create the game Uno"
+			},
+			{
+				"company": "CSC 848 Software Engineering",
+				"title": "Student",
+				"years": "June 2021 - August 2021",
+				"description": "Operated within a seven person team using practical team oriented methods and tools of full lifecycle SW development",
+				"description1": "Produced a fitness app where users can match according to their exercise interest"
+			},
+			{
+				"company": "CSC 317 Introduction to Web Software Development",
+				"title": "Student",
+				"years": "June 2021 - August 2021",
+				"description": "Obtained working knowledge of basic web stack technologies like HTML, CSS, JavaScript, NodeJS, Express, & MYSQL",
+				"description1": "Created a photo app where users can upload and comment on photos"
 			}
 		],
 		"skills": [
