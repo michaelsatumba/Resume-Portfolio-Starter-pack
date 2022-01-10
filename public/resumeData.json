@@ -118,7 +118,7 @@
 				"level": "100%"
 			},
 			{
-				"name": "Git",
+				"name": "Firebase",
 				"level": "70%"
 			},
 			{
@@ -216,6 +216,12 @@
 				"category": "",
 				"image": "DrumKit.png",
 				"url": "https://michaelsatumba.github.io/drum-it-out/"
+			},
+			{
+				"title": "ToDoReact",
+				"category": "",
+				"image": "toDoReact.png",
+				"url": "https://to-do-react-nine.vercel.app/"
 			}
 		]
 	},
