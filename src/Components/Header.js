@@ -4,6 +4,7 @@ import TypeWriter from 'react-typewriter';
 const Header = ({ data }) => {
 	if (data) {
 		var name = data.name;
+		var profilepic = 'images/' + data.image1;
 		var occupation = data.occupation;
 		var description = data.description;
 		var city = data.address.city;
@@ -63,6 +64,7 @@ const Header = ({ data }) => {
 			</nav>
 
 			<div className="row banner">
+				<img className="picture" src={profilepic} alt="Profile Pic" />
 				<div className="banner-text">
 					<h1 className="responsive-headline">
 						<TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>

@@ -26,6 +26,14 @@
 	header .banner {
 		padding-bottom: 12px;
 	}
+
+	header .picture {
+		width: 150px;
+		height: 150px;
+		border-radius: 50%;
+		object-fit: cover;
+	}
+
 	header .banner-text h1 {
 		font: 78px/1.1em 'opensans-bold', sans-serif;
 		letter-spacing: -1px;
