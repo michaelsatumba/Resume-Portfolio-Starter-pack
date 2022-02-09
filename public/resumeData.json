@@ -134,6 +134,12 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "Julian's Portfolio",
+				"category": "",
+				"image": "JuliansPortfolio.png",
+				"url": "https://julian-sanchez.vercel.app/"
+			},
+			{
 				"title": "Papafam",
 				"category": "",
 				"image": "Papafam.png",
