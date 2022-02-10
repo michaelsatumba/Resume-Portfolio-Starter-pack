@@ -87,8 +87,7 @@
 				"company": "The Complete 2021 Web Development Bootcamp",
 				"title": "Student",
 				"years": "March 2021 - September 2021",
-				"description": "Designed a Secrets app where users can log in via 2-factor authentication & submit their secrets privately",
-				"description1": "Built 20+ websites that utilize HTML, CSS, & JS"
+				"description": "Built 20+ websites that utilize HTML, CSS, & JS"
 			},
 			{
 				"company": "CSC 867 Advanced Internet Application Design and Development",
@@ -152,28 +151,10 @@
 				"url": "https://youtu.be/9fLxIIP33Yk"
 			},
 			{
-				"title": "NFT Marketplace",
-				"category": "",
-				"image": "NFT.png",
-				"url": "https://nftmarketplace-xi.vercel.app/"
-			},
-			{
 				"title": "Uno",
 				"category": "",
 				"image": "Uno.png",
 				"url": "https://salty-plains-39190.herokuapp.com/"
-			},
-			{
-				"title": "Secrets",
-				"category": "",
-				"image": "Secrets.png",
-				"url": "https://peaceful-tor-75491.herokuapp.com/"
-			},
-			{
-				"title": "Uber",
-				"category": "",
-				"image": "Uber.png",
-				"url": "https://uber-clone-phi.vercel.app"
 			},
 			{
 				"title": "Love Shuffle",
@@ -181,12 +162,7 @@
 				"image": "LoveShuffle.png",
 				"url": "https://michaelsatumba.github.io/Love-Shuffle/"
 			},
-			{
-				"title": "Metaverse",
-				"category": "",
-				"image": "Metaverse.png",
-				"url": "https://metaverse-chat1.vercel.app/"
-			},
+
 			{
 				"title": "Ventura County Open Mics",
 				"category": "",
@@ -200,40 +176,10 @@
 				"url": "https://www.youtube.com/watch?v=_VmuTgwfs54&t=11s"
 			},
 			{
-				"title": "Memory Game",
-				"category": "",
-				"image": "MemoryGame.png",
-				"url": "https://michaelsatumba.github.io/Memory-Game/"
-			},
-			{
 				"title": "FitHub",
 				"category": "",
 				"image": "FitHub.png",
 				"url": "http://100.26.92.104:3000/"
-			},
-			{
-				"title": "Blog",
-				"category": "",
-				"image": "Blog.png",
-				"url": "https://stormy-wildwood-85952.herokuapp.com/"
-			},
-			{
-				"title": "ToDoList",
-				"category": "",
-				"image": "ToDoList.png",
-				"url": "https://calm-lowlands-49428.herokuapp.com/"
-			},
-			{
-				"title": "DrumKit",
-				"category": "",
-				"image": "DrumKit.png",
-				"url": "https://michaelsatumba.github.io/drum-it-out/"
-			},
-			{
-				"title": "ToDoReact",
-				"category": "",
-				"image": "toDoReact.png",
-				"url": "https://to-do-react-nine.vercel.app/"
 			}
 		]
 	},
