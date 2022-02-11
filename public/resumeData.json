@@ -133,6 +133,12 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "TheCARob",
+				"category": "",
+				"image": "TheCARob.png",
+				"url": "https://julian-sanchez.vercel.app/"
+			},
+			{
 				"title": "Julian's Portfolio",
 				"category": "",
 				"image": "JuliansPortfolio.png",
