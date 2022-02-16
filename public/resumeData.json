@@ -133,10 +133,16 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "Splitter",
+				"category": "",
+				"image": "Splitter.png",
+				"url": "https://vercel.com/michaelsatumba/tip-calculator-app-main"
+			},
+			{
 				"title": "TheCARob",
 				"category": "",
 				"image": "TheCARob.png",
-				"url": "https://julian-sanchez.vercel.app/"
+				"url": "https://the-ca-rob.vercel.app/"
 			},
 			{
 				"title": "Julian's Portfolio",
