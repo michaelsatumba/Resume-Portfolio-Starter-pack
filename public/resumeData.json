@@ -133,6 +133,12 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "Clock",
+				"category": "",
+				"image": "Clock.png",
+				"url": "https://clock-app-sooty.vercel.app/"
+			},
+			{
 				"title": "Splitter",
 				"category": "",
 				"image": "Splitter.png",
