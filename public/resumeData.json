@@ -133,6 +133,12 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "Beatbox",
+				"category": "",
+				"image": "beatbox.png",
+				"url": "https://beatbox-six.vercel.app/"
+			},
+			{
 				"title": "Clock",
 				"category": "",
 				"image": "Clock.png",
