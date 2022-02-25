@@ -1,7 +1,7 @@
 {
 	"main": {
 		"name": "Michael Satumba",
-		"occupation": "A developer focused on Kinesiology",
+		"occupation": "Software Engineer",
 		"description": "",
 		"image": "profilepic.jpg",
 		"image1": "picture.jpg",
@@ -59,12 +59,6 @@
 			}
 		],
 		"work": [
-			{
-				"company": "Lifter",
-				"title": "Team Lead",
-				"years": "November 2021 - Present",
-				"description": "Led 5 developers to build an app that matches people based on workout interests"
-			},
 			{
 				"company": "Streamd",
 				"title": "Front End Lead",
