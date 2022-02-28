@@ -16,7 +16,7 @@
 			"zip": "W3B D3V"
 		},
 		"website": "https://mkeport.vercel.app/",
-		"resumedownload": "https://docs.google.com/document/d/1jDywnlQeR_g7MgLl7yACL5hMll424CSxRKR3JyFpiw8/edit?usp=sharing",
+		"resumedownload": "https://docs.google.com/document/d/1i2bZtTGiUWDM7-2EBv9_wXYKrCi9BosO_7vZDsvywmc/edit?usp=sharing",
 		"social": [
 			{
 				"name": "youtube",
@@ -61,15 +61,16 @@
 		"work": [
 			{
 				"company": "Streamd",
-				"title": "Front End Lead",
+				"title": "Software Engineer",
 				"years": "November 2021 - Present",
-				"description": "Built a web application that helps users find, track, and share anime"
+				"description": "Building a web application that helps users find, track, and share anime",
+				"description1": "Using Next.js, Swift, & Firebase to develop both web & ios applications"
 			},
 			{
 				"company": "Freelancer",
-				"title": "Full-Stack Web Developer",
+				"title": "Software Engineer",
 				"years": "April 2021 - Present",
-				"description": "Provided website construction to advertise businesses and general marketability"
+				"description": "Providing website construction to advertise businesses and general marketability"
 			},
 			{
 				"company": "Kinesiology Master's Thesis",
