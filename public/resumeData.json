@@ -128,6 +128,12 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "SaitamaToDoList",
+				"category": "",
+				"image": "saitamaToDoList.png",
+				"url": "https://not-todo-app-pmtrtfv8a-michaelsatumba.vercel.app/"
+			},
+			{
 				"title": "CalorieMapWeb",
 				"category": "",
 				"image": "calorieMapWeb.png",
