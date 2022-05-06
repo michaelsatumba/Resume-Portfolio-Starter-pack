@@ -109,7 +109,7 @@
 		"skills": [
 			{
 				"name": "JavaScript",
-				"level": "100%"
+				"level": "95%"
 			},
 			{
 				"name": "Firebase",
@@ -117,7 +117,7 @@
 			},
 			{
 				"name": "ReactJs",
-				"level": "99%"
+				"level": "90%"
 			},
 			{
 				"name": "React-Native",
@@ -188,6 +188,20 @@
 				"url": "https://youtu.be/3JDNk8YCUko"
 			},
 			{
+				"title": "Ventura County Open Mics",
+				"category": "",
+				"image": "VenturaCountyOpenMics.png",
+				"url": "https://ventura-county-open-mics.vercel.app/"
+			},
+			{
+				"title": "Love Shuffle",
+				"category": "",
+				"image": "LoveShuffle.png",
+				"url": "https://michaelsatumba.github.io/Love-Shuffle/"
+			}
+		],
+		"schoolProjects": [
+			{
 				"title": "Lifter",
 				"category": "",
 				"image": "Lifter.png",
@@ -204,19 +218,6 @@
 				"category": "",
 				"image": "webServer.png",
 				"url": "https://github.com/sfsu-csc-667-fall-2021/web-server-alex-michael-repo"
-			},
-			{
-				"title": "Love Shuffle",
-				"category": "",
-				"image": "LoveShuffle.png",
-				"url": "https://michaelsatumba.github.io/Love-Shuffle/"
-			},
-
-			{
-				"title": "Ventura County Open Mics",
-				"category": "",
-				"image": "VenturaCountyOpenMics.png",
-				"url": "https://ventura-county-open-mics.vercel.app/"
 			},
 			{
 				"title": "PhotoApp",
