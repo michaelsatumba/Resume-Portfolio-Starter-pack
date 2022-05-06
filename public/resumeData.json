@@ -128,6 +128,12 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "familyFacebook",
+				"category": "",
+				"image": "familyFacebook.png",
+				"url": "https://family-facebook.vercel.app"
+			},
+			{
 				"title": "WeatherAnyStorm",
 				"category": "",
 				"image": "weatherAnyStorm.png",
@@ -201,6 +207,24 @@
 			}
 		],
 		"schoolProjects": [
+			{
+				"title": "twitterAnalysis",
+				"category": "",
+				"image": "twitterAnalysis.png",
+				"url": "https://github.com/michaelsatumba/Twitter-Project"
+			},
+			{
+				"title": "calorieMapIos",
+				"category": "",
+				"image": "calorieMap.png",
+				"url": "https://github.com/michaelsatumba/CalorieMap"
+			},
+			{
+				"title": "workoutApp",
+				"category": "",
+				"image": "workoutApp.png",
+				"url": "https://workout-app-delta.vercel.app/"
+			},
 			{
 				"title": "Lifter",
 				"category": "",
