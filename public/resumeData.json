@@ -260,12 +260,28 @@
 	"testimonials": {
 		"testimonials": [
 			{
-				"text": "Michael is absolutely excellent, his depth of knowledge & his help really meant a lot to us... I would definitely recommend.",
-				"user": "Visakh Nair"
+				"text": "I worked with Michael on an Apache-like web server written in vanilla Java, which served a subset of the HTTP protocols. Michael proved to be an excellent team member and an astute developer. Despite the challenging task, he demonstrated his ability to adapt and make sound decisions. I found Michael to be a hard worker, a professional, and a joy to work with.",
+				"user": "Alexander Chau"
 			},
 			{
-				"text": "Learning with Michael has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-				"user": "Erlo Tayamen"
+				"text": "I am absolutely impressed with Mr. Satumbas work! As a small independent business owner I needed a website that encapsulated my camera and video services. He brought to life what I once could only imagine would be a perfect website for my business. The only thing that surpasses his website building skills is his fun and eager personality that makes it really easy to work with him. With Gratitude, Julian",
+				"user": "Julian Sanchez"
+			},
+			{
+				"text": "I first met Michael through LinkedIn when I reached out to him for help with development on one of my projects: STREAMD. During his time working with me he was responsible with developing the frontend of the website using React Native and Firestore as the tech stack. Right away I was impressed with his ability to take initiative and get started on development as soon as he was able to. Within the first few days, he gave me a working prototype of the site. He demonstrated amazing ability to follow instructions but at the same time solve problems on his own when they arose. What impressed me the most about Michael is his drive to work hard. He’s not someone that will sit around and wait to be assigned problems, but instead will take care of them as he come across them. I’m confident that whatever responsibilities Michael is assigned he can get it done.",
+				"user": "Jules Labador"
+			},
+			{
+				"text": "I had the pleasure of working with Michael as my personal trainer. He was able to help me develop my health and fitness goals with achievable milestones so I felt motivated by the progress. Michael has a passion to connect with people and provide solutions. His attention to detail and problem-solving skills are a great asset to any company.",
+				"user": "Isabel Chou"
+			},
+			{
+				"text": "I had the pleasure of working with Michael on a web application for the CSC648/848 course where his role was of a Frontend developer. Michael is an innovator with good designing skills. He is always receptive to formulating new techniques and approaches and puts all his energy and time to meet the highest standards. In many instances, he proved that he is a team player and never hesitated to provide support when needed.  He would be a trusted colleague and definitely a valuable addition to the team.",
+				"user": "Vidhi Mora"
+			},
+			{
+				"text": "Michael is one of the select few I've worked with that has the ability to adapt to any situation. I had the pleasure to work with Michael as his Backend lead for CSC 648/848 course and I would gladly do it again. He absolutely blew our minds when he unveiled the Frontend portion of the web app. His utilization of Frontend tools such as Bootstrap, CSS/HTML, etc is truly impeccable. In addition, his charisma and communication skills along with his Software Engineering skills makes him a valuable team member.",
+				"user": "Johnson Nguyen"
 			}
 		]
 	}
