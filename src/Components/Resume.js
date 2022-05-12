@@ -20,6 +20,8 @@ const Resume = ({ data }) => {
 						<em className="date">{education.graduated2}</em>
 					</p>
 					<p className="centerp">{education.description}</p>
+					<p className="centerp">{education.description1}</p>
+					<p className="centerp">{education.description2}</p>
 				</div>
 			);
 		});
