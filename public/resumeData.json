@@ -147,79 +147,79 @@
 	"portfolio": {
 		"projects": [
 			{
-				"title": "familyFacebook",
+				"title": "CRUD application to communicate with my family.",
 				"category": "",
 				"image": "familyFacebook.png",
 				"url": "https://family-facebook.vercel.app"
 			},
 			{
-				"title": "WeatherAnyStorm",
+				"title": "Want to know the what workout you should do based on the weather?",
 				"category": "",
 				"image": "weatherAnyStorm.png",
 				"url": "https://weather-any-storm.vercel.app/"
 			},
 			{
-				"title": "SaitamaToDoList",
+				"title": "Want to keep track of your workout like saitama?",
 				"category": "",
 				"image": "saitamaToDoList.png",
 				"url": "https://not-todo-app-pmtrtfv8a-michaelsatumba.vercel.app/"
 			},
 			{
-				"title": "CalorieMapWeb",
+				"title": "Want to see how many calories you would lose from point a to point b?",
 				"category": "",
 				"image": "calorieMapWeb.png",
 				"url": "https://calorie-map-web.vercel.app/"
 			},
 			{
-				"title": "Timepiece",
+				"title": "Want to know what time it is? With a quote!",
 				"category": "",
 				"image": "timepiece.png",
 				"url": "https://timepiece.vercel.app/"
 			},
 			{
-				"title": "Beatbox",
+				"title": "Want to be a DJ?",
 				"category": "",
 				"image": "beatbox.png",
 				"url": "https://beatbox-six.vercel.app/"
 			},
 			{
-				"title": "Clock",
+				"title": "Want to know what time it is? With a quote!",
 				"category": "",
 				"image": "Clock.png",
 				"url": "https://clock-app-sooty.vercel.app/"
 			},
 			{
-				"title": "Splitter",
+				"title": "Want to know how much to tip?",
 				"category": "",
 				"image": "Splitter.png",
 				"url": "https://tip-calculator-app-main-delta-seven.vercel.app/"
 			},
 			{
-				"title": "TheCARob",
+				"title": "Want to know the TheCARob?",
 				"category": "",
 				"image": "TheCARob.png",
 				"url": "https://the-ca-rob.vercel.app/"
 			},
 			{
-				"title": "Julian's Portfolio",
+				"title": "Want to know Julian?",
 				"category": "",
 				"image": "JuliansPortfolio.png",
 				"url": "https://julian-sanchez.vercel.app/"
 			},
 			{
-				"title": "Papafam",
+				"title": "Want to see the Papafam mobile app?",
 				"category": "",
 				"image": "Papafam.png",
 				"url": "https://youtu.be/3JDNk8YCUko"
 			},
 			{
-				"title": "Ventura County Open Mics",
+				"title": "Want to see comedy in Ventura Couunty?",
 				"category": "",
 				"image": "VenturaCountyOpenMics.png",
 				"url": "https://ventura-county-open-mics.vercel.app/"
 			},
 			{
-				"title": "Love Shuffle",
+				"title": "Don't know which one to do tonight?",
 				"category": "",
 				"image": "LoveShuffle.png",
 				"url": "https://michaelsatumba.github.io/Love-Shuffle/"
@@ -227,49 +227,49 @@
 		],
 		"schoolProjects": [
 			{
-				"title": "twitterAnalysis",
+				"title": "Want to know which tweets are positive or negative?",
 				"category": "",
 				"image": "twitterAnalysis.png",
 				"url": "https://github.com/michaelsatumba/Twitter-Project"
 			},
 			{
-				"title": "calorieMapIos",
+				"title": "Want to see how many calories you would lose from point a to point b?",
 				"category": "",
 				"image": "calorieMap.png",
 				"url": "https://github.com/michaelsatumba/CalorieMap"
 			},
 			{
-				"title": "workoutApp",
+				"title": "Want to see a design of a workout app?",
 				"category": "",
 				"image": "workoutApp.png",
 				"url": "https://workout-app-delta.vercel.app/"
 			},
 			{
-				"title": "Lifter",
+				"title": "Want to workout with other people?",
 				"category": "",
 				"image": "Lifter.png",
 				"url": "https://play.google.com/store/apps/details?id=com.michaelsatumbajr.lifter"
 			},
 			{
-				"title": "Uno",
+				"title": "Want to play uno?",
 				"category": "",
 				"image": "Uno.png",
 				"url": "https://salty-plains-39190.herokuapp.com/"
 			},
 			{
-				"title": "Web Server",
+				"title": "Do you need a server?",
 				"category": "",
 				"image": "webServer.png",
 				"url": "https://github.com/sfsu-csc-667-fall-2021/web-server-alex-michael-repo"
 			},
 			{
-				"title": "PhotoApp",
+				"title": "Want to see code for a photo sharing app?",
 				"category": "",
 				"image": "PhotoApp.png",
 				"url": "https://www.youtube.com/watch?v=_VmuTgwfs54&t=11s"
 			},
 			{
-				"title": "FitHub",
+				"title": "Want to workout with other people?",
 				"category": "",
 				"image": "FitHub.png",
 				"url": "http://100.26.92.104:3000/"

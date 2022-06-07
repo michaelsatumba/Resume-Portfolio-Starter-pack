@@ -13,7 +13,7 @@ const Resume = ({ data }) => {
 					</p>
 					<p className="info">
 						{education.degree2} <span>&bull;</span>
-						<em className="date">{education.graduated2}</em>
+						<em className="date">{education.graduated}</em>
 					</p>
 					<p className="info">
 						{education.degree3} <span>&bull;</span>
