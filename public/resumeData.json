@@ -147,6 +147,12 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "Want to workout with other people?",
+				"category": "",
+				"image": "lifterWeb.png",
+				"url": "https://tinder-clone-1-gamma.vercel.app/"
+			},
+			{
 				"title": "CRUD application to communicate with my family.",
 				"category": "",
 				"image": "familyFacebook.png",
