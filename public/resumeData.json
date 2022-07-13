@@ -16,7 +16,7 @@
 			"zip": "W3B D3V"
 		},
 		"website": "https://mkeport.vercel.app/",
-		"resumedownload": "https://docs.google.com/document/d/1Z6j-g71fYeR1jIEL2SgrDk8VB5Sghh6zuSG2ry5V_nc/edit?usp=sharing",
+		"resumedownload": "https://docs.google.com/document/d/1H4VViO-pfxil_40SiET-1-K53HiAXva0-TCBvygXROo/edit?usp=sharing",
 		"social": [
 			{
 				"name": "youtube",
@@ -69,14 +69,8 @@
 				"description1": "Use Next.js, Swift, & Firebase to develop both web & ios applications"
 			},
 			{
-				"company": "Freelancer",
-				"title": "Software Engineer",
-				"years": "April 2021 - Present",
-				"description": "Provide website construction to advertise businesses and general marketability"
-			},
-			{
 				"company": "Kinesiology Master's Thesis",
-				"title": "Full-Stack Web Developer & Researcher",
+				"title": "Software Engineer & Researcher",
 				"years": "August 2020 - May 2022",
 				"description": "Constructed a fitness application that customizes unique exercise experiences for workout partners"
 			},
