@@ -75,12 +75,6 @@
 				"description": "Constructed a fitness application that customizes unique exercise experiences for workout partners"
 			},
 			{
-				"company": "The Complete 2021 Web Development Bootcamp",
-				"title": "Student",
-				"years": "March 2021 - September 2021",
-				"description": "Built 20+ websites that utilize HTML, CSS, & JS"
-			},
-			{
 				"company": "CSC 842 Human-Computer Interaction",
 				"title": "Student",
 				"years": "February 2022 - May 2022",
@@ -104,6 +98,12 @@
 				"years": "August 2021 - December 2021",
 				"description": "Worked in a team of two to build a Web Server using Java",
 				"description1": "Participated within a four person team to re-create the game Uno"
+			},
+			{
+				"company": "The Complete 2021 Web Development Bootcamp, Udemy",
+				"title": "Student",
+				"years": "March 2021 - September 2021",
+				"description": "Built 20+ websites that utilize HTML, CSS, & JS"
 			},
 			{
 				"company": "CSC 848 Software Engineering",
