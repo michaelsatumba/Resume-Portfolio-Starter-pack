@@ -16,7 +16,7 @@
 			"zip": "W3B D3V"
 		},
 		"website": "https://mkeport.vercel.app/",
-		"resumedownload": "https://docs.google.com/document/d/1H4VViO-pfxil_40SiET-1-K53HiAXva0-TCBvygXROo/edit?usp=sharing",
+		"resumedownload": "https://docs.google.com/document/d/1Xqk8Q2GOojRj_3yWBCHhMwUOAKpmzTw5MIup821Cu9s/edit",
 		"social": [
 			{
 				"name": "youtube",
@@ -62,17 +62,19 @@
 		],
 		"work": [
 			{
-				"company": "Streamd",
-				"title": "Frontend Engineer",
-				"years": "November 2021 - May 2022",
-				"description": "Build a web application with 6 developers that helps users find, track, and share anime",
-				"description1": "Use Next.js, Swift, & Firebase to develop both web & ios applications"
-			},
-			{
 				"company": "Kinesiology Master's Thesis",
 				"title": "Software Engineer & Researcher",
 				"years": "August 2020 - May 2022",
-				"description": "Constructed a fitness application that customizes unique exercise experiences for workout partners"
+				"description": "Constructed a fitness application that customizes unique exercise experiences for workout partners",
+				"description1": "Made with React-Native & Firebase to make the mobile application (also built a web version)",
+				"description2": "Synthesized literature reviews of 100+ research articles on privacy, health applications, & motivational frameworks"
+			},
+			{
+				"company": "Streamd",
+				"title": "Frontend Engineer",
+				"years": "November 2021 - December 2021",
+				"description": "Build a web application with 6 developers that helps users find, track, and share anime",
+				"description1": "Use Next.js, Swift, & Firebase to develop both web & ios applications"
 			},
 			{
 				"company": "CSC 842 Human-Computer Interaction",
@@ -84,7 +86,7 @@
 				"company": "CSC 780 Application Development for Mobile Devices",
 				"title": "Student",
 				"years": "February 2022 - May 2022",
-				"description": "Produced a mobile app via Swift that determines the calories lost between 2 locations"
+				"description": "Produced a mobile app via Swift that determines the calories lost between 2 locations (also built a web version)"
 			},
 			{
 				"company": "CSC 864 Multimedia Systems",
@@ -96,8 +98,8 @@
 				"company": "CSC 867 Advanced Internet Application Design and Development",
 				"title": "Student",
 				"years": "August 2021 - December 2021",
-				"description": "Worked in a team of two to build a Web Server using Java",
-				"description1": "Participated within a four person team to re-create the game Uno"
+				"description": "Worked in a team of 2 to build a Web Server using Java",
+				"description1": "Participated in a team of 4 to recreate the game Uno using JavaScript & PostgreSQL"
 			},
 			{
 				"company": "The Complete 2021 Web Development Bootcamp, Udemy",
@@ -109,14 +111,14 @@
 				"company": "CSC 848 Software Engineering",
 				"title": "Student",
 				"years": "June 2021 - August 2021",
-				"description": "Operated within a seven person team using practical team oriented methods and tools of full lifecycle SW development",
+				"description": "Operated within a 7 person team using practical team oriented methods and tools of full lifecycle SW development",
 				"description1": "Utilized the tools of full lifecycle SW development to create a fitness application"
 			},
 			{
 				"company": "CSC 317 Introduction to Web Software Development",
 				"title": "Student",
 				"years": "June 2021 - August 2021",
-				"description": "Created a photo app where users can upload and comment on photos"
+				"description": "Created a photo app where users can upload and comment on photos with JavaScript & MYSQL"
 			}
 		],
 		"skills": [

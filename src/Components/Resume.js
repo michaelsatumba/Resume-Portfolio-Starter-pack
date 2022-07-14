@@ -35,6 +35,7 @@ const Resume = ({ data }) => {
 					</p>
 					<p>{work.description}</p>
 					<p>{work.description1}</p>
+					<p>{work.description2}</p>
 				</div>
 			);
 		});
