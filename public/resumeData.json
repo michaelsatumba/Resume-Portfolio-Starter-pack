@@ -143,6 +143,12 @@
 	"portfolio": {
 		"projects": [
 			{
+				"title": "Want to exercise but don't feel motivated to? Novelty is a great motivator. Here is a random exercise generator.",
+				"category": "",
+				"image": "neomania.png",
+				"url": "https://neomania.vercel.app/"
+			},
+			{
 				"title": "Want to workout with other people?",
 				"category": "",
 				"image": "lifterWeb.png",
