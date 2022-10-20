@@ -5,7 +5,7 @@
 		"description": "",
 		"image": "profilepic.jpg",
 		"image1": "picture.jpg",
-		"bio": "I have used my Kinesiology degree to help people by being a personal trainer, swim instructor, CrossFit coach, and movement teacher. I wanted to use my Kinesiology degree to get others to move more and possibly go into public health and work my way up writing physical activity guidelines. After finding out how much more school was needed to pursue another degree in public health, I wanted to think of other ways to impact health. That's when I thought about software. Multiple software programs affect health like FitBit, Apple Health, Oura, and countless other fitness apps. I started by watching Youtube tutorials, then going through some online courses, and eventually, I took some courses at SF State in the CS department. I pursued a graduate certificate in software engineering in addition to my Master's in Kinesiology. I'm obsessed with solving problems in Kinesiology using React, Firebase, and Node by building web and mobile applications with an emphasis on accessibility and usability. I'm currently looking to contribute my skills to a team where I can prove my skills while growing in my capabilities. If you are looking for a competent, highly-motivated developer, that is me.",
+		"bio": "I have used my Kinesiology degree to help people by being a personal trainer, swim instructor, CrossFit coach, and movement teacher. I wanted to use my Kinesiology degree to get others to move more. That's when I thought about software. Multiple software programs affect health like FitBit, Apple Health, Oura, and countless other fitness apps. I started by watching Youtube tutorials, then going through some online courses, and eventually, I took some courses at SF State in the CS department. I pursued a graduate certificate in software engineering in addition to my Master's in Kinesiology. I'm obsessed with solving problems in Kinesiology using React and Firebase by building web applications with an emphasis on usability. I'm currently looking to contribute my skills to a team where I can prove my skills while growing in my capabilities. If you are looking for a competent, highly-motivated developer, let's chat.",
 		"contactmessage": "Get in touch with me to be build something cool!",
 		"email": "mjsatumba@gmail.com",
 		"phone": "+01 1234567899",
@@ -62,6 +62,14 @@
 		],
 		"work": [
 			{
+				"company": "Wyzant",
+				"title": "Coding Tutor",
+				"years": "October 2022 - Present",
+				"description": "Worked closely with multiple computer science students to tutor in HTLM, CSS, Javascript, and React",
+				"description1": "Successfully analyzed and debugged code written by mny different individuals and provided feedback",
+				"description2": "Organize tutoring environment to promote productivity and learning"
+			},
+			{
 				"company": "Kinesiology Master's Thesis",
 				"title": "Software Engineer & Researcher",
 				"years": "August 2020 - May 2022",
@@ -72,7 +80,7 @@
 			{
 				"company": "Streamd",
 				"title": "Frontend Engineer",
-				"years": "October 2021 - February 2022",
+				"years": "Novemeber 2021 - December 2021",
 				"description": "Build a web application with 6 developers that helps users find, track, and share anime",
 				"description1": "Use Next.js, Swift, & Firebase to develop both web & ios applications"
 			},
@@ -133,10 +141,6 @@
 			{
 				"name": "ReactJs",
 				"level": "90%"
-			},
-			{
-				"name": "React-Native",
-				"level": "85%"
 			}
 		]
 	},
