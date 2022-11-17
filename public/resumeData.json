@@ -284,6 +284,26 @@
 	"testimonials": {
 		"testimonials": [
 			{
+				"text": "Helpful, approachable and very nice. We worked on trouble shooting some code and establishing a DB connection. Michael was helpful and very friendly. We made some good progress during our session. Thanks!",
+				"user": "Elliot"
+			},
+			{
+				"text": "Awesome instruction, patient and knowledgeable. JavaScript, local storage, and timers. Also we covered her element and other functions . I would definitely recommend Michael to anyone looking for a tutor. He was knowledgeable and very patient and was very good at breaking complex ideas into simple components",
+				"user": "Anthony"
+			},
+			{
+				"text": "Great teacher and very helpful. Very patient teacher and knows his stuff! Michael explained each line in detail and encouraged me to take the lead",
+				"user": "Brian"
+			},
+			{
+				"text": "Knowledgeable and patient tutor. Michael is very knowledgeable and is very helpful in teaching JavaScript. He will explain the material in a way that will make sense. I will def request his tutoring services again!",
+				"user": "Aldo"
+			},
+			{
+				"text": "Knowledgeable & Patient tutor. Michael is a very kind and patient tutor which makes him really easy to work with. He taught me new concepts in React that I have little knowledge of and was able to break things down in a way for me to understand. Just by working with Michael, it seems he really cares about what he does and wants to share his knowledge with the community. I highly recommend anyone to get help from Michael that is willing to share his knowledge and who is very down to earth to make sure you understand the concept.",
+				"user": "Malik"
+			},
+			{
 				"text": "I worked with Michael on an Apache-like web server written in vanilla Java, which served a subset of the HTTP protocols. Michael proved to be an excellent team member and an astute developer. Despite the challenging task, he demonstrated his ability to adapt and make sound decisions. I found Michael to be a hard worker, a professional, and a joy to work with.",
 				"user": "Alexander Chau"
 			},
