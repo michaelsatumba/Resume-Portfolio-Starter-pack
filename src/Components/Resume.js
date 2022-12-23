@@ -59,9 +59,25 @@ const Resume = ({ data }) => {
 					</h1>
 				</div>
 
-				<div className="nine columns main-col">
-					<div className="row item">
+				<div
+					className="nine columns main-col"
+					// style={{
+					// 	backgroundColor: 'green',
+					// }}
+				>
+					<div
+						className="row item"
+						// style={{
+						// 	backgroundColor: 'red',
+						// }}
+					>
 						<div className="twelve columns">{education}</div>
+						<div>
+							<img src="/images/gradCert.png" alt="graduateCert" />
+						</div>
+						<div>
+							<img src="/images/masters.png" alt="masters" />
+						</div>
 					</div>
 				</div>
 			</div>
