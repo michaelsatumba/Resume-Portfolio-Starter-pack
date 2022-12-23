@@ -19,9 +19,9 @@ const Resume = ({ data }) => {
 						{education.degree3} <span>&bull;</span>
 						<em className="date">{education.graduated2}</em>
 					</p>
-					<p className="centerp">{education.description}</p>
-					<p className="centerp">{education.description1}</p>
-					<p className="centerp">{education.description2}</p>
+					<p className="info">{education.description}</p>
+					<p className="info">{education.description1}</p>
+					<p className="info">{education.description2}</p>
 				</div>
 			);
 		});

@@ -1,11 +1,11 @@
 {
 	"main": {
 		"name": "Michael Satumba",
-		"occupation": "Frontend Engineer",
+		"occupation": "Software Engineer",
 		"description": "",
 		"image": "profilepic.jpg",
 		"image1": "picture.jpg",
-		"bio": "I have used my Kinesiology degree to help people by being a personal trainer, swim instructor, CrossFit coach, and movement teacher. I wanted to use my Kinesiology degree to get others to move more. That's when I thought about software. Multiple software programs affect health like FitBit, Apple Health, Oura, and countless other fitness apps. I started by watching Youtube tutorials, then going through some online courses, and eventually, I took some courses at SF State in the CS department. I pursued a graduate certificate in software engineering in addition to my Master's in Kinesiology. I'm obsessed with solving problems in Kinesiology using React and Firebase by building web applications with an emphasis on usability. I'm currently looking to contribute my skills to a team where I can prove my skills while growing in my capabilities. If you are looking for a competent, highly-motivated developer, let's chat.",
+		"bio": "Hello and welcome to my personal website! My name is Michael and I am a graduate of San Francisco State University, where I received both my Bachelor's and Master's degrees in Kinesiology. In addition to my background in the health and wellness field, I also have a Graduate Certificate in Software Engineering. Throughout my academic career, I have consistently sought out opportunities to integrate my software engineering skills into my studies and research in kinesiology. As I embark on my career in software engineering, I am eager to continue applying my unique combination of technical expertise and health and wellness knowledge to create innovative solutions that make a positive impact on people's lives. Thank you for visiting my website and I hope you will continue to follow my journey as I grow and learn in my field.",
 		"contactmessage": "Get in touch with me to be build something cool!",
 		"email": "mjsatumba@gmail.com",
 		"phone": "+01 1234567899",
@@ -16,7 +16,7 @@
 			"zip": "W3B D3V"
 		},
 		"website": "https://mkeport.vercel.app/",
-		"resumedownload": "https://docs.google.com/document/d/18-cg0_b63XkjygMs0H8EjgBlZToF_MVN4WYcXYhwxsg/edit?usp=sharing",
+		"resumedownload": "",
 		"social": [
 			{
 				"name": "youtube",
@@ -46,7 +46,7 @@
 		]
 	},
 	"resume": {
-		"skillmessage": "My Programming Language Proficiency",
+		"skillmessage": "",
 		"education": [
 			{
 				"school": "San Francisco State University",
@@ -63,77 +63,77 @@
 		"work": [
 			{
 				"company": "Wyzant",
-				"title": "Coding Tutor",
+				"title": "Tutor",
 				"years": "October 2022 - Present",
-				"description": "Worked closely with multiple computer science students to tutor in HTLM, CSS, Javascript, and React",
-				"description1": "Successfully analyzed and debugged code written by mny different individuals and provided feedback",
-				"description2": "Organize tutoring environment to promote productivity and learning"
+				"description": "As a computer science tutor, I have a passion for helping students learn and succeed in their studies. With a strong background in computer science and a deep understanding of the subject matter, I am able to provide personalized and effective tutoring sessions that cater to the specific needs and goals of each student. Whether you are struggling with a particular course or looking to excel in your studies, I am here to help. My approach to tutoring is hands-on and interactive, with a focus on practical applications and real-world examples. I believe that the best way to learn is by doing, and I encourage my students to ask questions and get involved in the learning process. I have experience working with students of all levels, from beginners to advanced learners, and I am skilled at breaking down complex concepts into easy-to-understand explanations. My goal is to help my students not only understand the material, but also develop a love for computer science and a lifelong desire to learn and grow.In addition to my expertise in computer science, I am also a patient and compassionate tutor who is dedicated to helping my students succeed. I look forward to working with you and helping you achieve your academic goals."
 			},
 			{
-				"company": "Kinesiology Master's Thesis",
-				"title": "Software Engineer & Researcher",
+				"company": "Ventura Comedy Club",
+				"title": "Comedy Host",
+				"years": "October 2018 - Present",
+				"description": "As the host of Ventura Comedy Club, I am responsible for introducing and welcoming comedians to the stage, as well as keeping the show running smoothly and efficiently. With a strong presence and the ability to engage with the audience, I bring a good sense of humor and quick wit to handle any unexpected situations that may arise. In addition to hosting duties, I also have experience in booking comedians, coordinating with venue staff, and promoting the show through social media and other channels. With a background in stand-up comedy and hosting, excellent communication skills, and the ability to think on my feet, I am the ideal candidate for this exciting opportunity. If you are looking for a natural performer with a love for comedy and the ability to keep a crowd entertained, I am the host for you. So, come and join me for a night of laughter and entertainment at Ventura Comedy Club."
+			},
+			{
+				"company": "San Francisco State University",
+				"title": "Researcher",
 				"years": "August 2020 - May 2022",
-				"description": "Constructed a fitness application that customizes unique exercise experiences for workout partners",
-				"description1": "Made with React-Native & Firebase to make the mobile application (also built a web version)",
-				"description2": "Synthesized literature reviews of 100+ research articles on privacy, health applications, & motivational frameworks"
+				"description": "As a researcher in kinesiology, my primary focus has been on studying the relationship between physical movement and overall health and wellness. In my role, I have had the opportunity to work with a variety of populations and use a range of research methodologies to gather and analyze data. Additionally, I have integrated my software engineering skills in my research position, developing and implementing fitness applications to aid in data collection and analysis. I am passionate about using my knowledge and skills to make a positive impact on the health and wellness of individuals and communities."
 			},
 			{
 				"company": "CSC 842 Human-Computer Interaction",
 				"title": "Student",
 				"years": "February 2022 - May 2022",
-				"description": "Iterated through the design process to fabricate a design using Figma for a workout app "
+				"description": "As a student in CSC 842 Human-Computer Interaction, I have gained a comprehensive understanding of the principles and practices of designing and evaluating user interfaces for a variety of contexts. Through coursework and hands-on projects, I have learned how to conduct user research, design and prototype interfaces, and evaluate the usability and effectiveness of different design solutions. I am proficient in using industry-standard tools and methods for user-centered design, including usability testing, user research, and usability evaluation techniques. In addition, I have a strong understanding of human-computer interaction theories and principles, including the role of cognition, perception, and emotions in user behavior. I am well-equipped to apply these skills in a variety of professional settings, including web and mobile design, software development, and user experience (UX) research and design."
 			},
 			{
 				"company": "CSC 780 Application Development for Mobile Devices",
 				"title": "Student",
 				"years": "February 2022 - May 2022",
-				"description": "Produced a mobile app via Swift that determines the calories lost between 2 locations (also built a web version)"
+				"description": "As a student in CSC 780 Application Development for Mobile Devices, I have gained the skills and knowledge necessary to design and develop high-quality mobile applications using Xcode and Swift for iOS platforms. Through coursework and hands-on projects, I have learned how to design user interfaces, implement and test application functionality, and optimize performance for mobile devices using Swift and Xcode. I am proficient in using these industry-standard tools and frameworks for mobile development, and have a strong understanding of the iOS ecosystem and the unique constraints and opportunities it presents for app development. In addition, I have a strong understanding of mobile development principles, including user experience design and optimization for mobile devices. I am well-equipped to apply these skills in a variety of professional settings, including iOS app development, software engineering, and user experience design."
 			},
 			{
 				"company": "CSC 864 Multimedia Systems",
 				"title": "Student",
 				"years": "February 2022 - May 2022",
-				"description": "Gathered data on opioid misuse, using JavaScript and analyzed that data with Python"
+				"description": "As a student in CSC 864 Multimedia Systems, I have gained a comprehensive understanding of the principles and practices of designing, implementing, and evaluating multimedia systems. Through coursework and hands-on projects, I have learned how to capture, encode, and transmit multimedia content, as well as how to design and develop interactive multimedia applications. I am proficient in using industry-standard tools and techniques for multimedia processing, including image and video processing, audio processing, and multimedia authoring. In addition, I have a strong understanding of the technical and aesthetic considerations involved in multimedia design, including the use of color, sound, and motion to engage and communicate with users. I am well-equipped to apply these skills in a variety of professional settings, including web and mobile design, multimedia production, and interactive media development."
 			},
 			{
 				"company": "CSC 867 Advanced Internet Application Design and Development",
 				"title": "Student",
 				"years": "August 2021 - December 2021",
-				"description": "Worked in a team of 2 to build a Web Server using Java",
-				"description1": "Participated in a team of 4 to recreate the game Uno using JavaScript & PostgreSQL"
+				"description": "As a student in CSC 867 Advanced Internet Application Design and Development, I have gained a deep understanding of the principles and practices of designing and developing advanced web applications. Through coursework and hands-on projects, I have learned how to design and implement scalable and secure web applications using a variety of technologies, including modern front-end frameworks, back-end frameworks, and databases. I am proficient in using industry-standard tools and techniques for web development, including agile development methodologies, version control systems, and cloud deployment platforms. In addition, I have a strong understanding of web application design principles, including user experience design, performance optimization, and security best practices. With these skills, I am well-equipped to tackle complex web development challenges and bring innovative web applications to life."
 			},
 			{
 				"company": "The Complete 2021 Web Development Bootcamp, Udemy",
 				"title": "Student",
 				"years": "March 2021 - September 2021",
-				"description": "Built 20+ websites that utilize HTML, CSS, & JS"
+				"description": "As a graduate of The Complete 2021 Web Development Bootcamp on Udemy, I have gained a comprehensive understanding of the technologies and techniques required to design and develop modern web applications. Through this intensive course, I have learned how to build interactive and responsive web applications using a variety of languages, frameworks, and tools, including HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, Express, and MongoDB. I am proficient in using industry-standard development methodologies and practices, including agile development, version control, and deployment to cloud platforms. In addition to technical skills, I have also gained a strong understanding of web development best practices, including user experience design, performance optimization, and security considerations. With these skills, I am well-equipped to tackle a wide range of web development projects and bring innovative ideas to life."
 			},
 			{
 				"company": "CSC 848 Software Engineering",
 				"title": "Student",
 				"years": "June 2021 - August 2021",
-				"description": "Operated within a 7 person team using practical team oriented methods and tools of full lifecycle SW development",
-				"description1": "Utilized the tools of full lifecycle SW development to create a fitness application"
+				"description": "As a student in CSC 848 Software Engineering, I have gained a comprehensive understanding of the principles and practices of designing and developing high-quality software systems. Through coursework and hands-on projects, I have learned how to apply a variety of software development methodologies, including agile, waterfall, and spiral, to create software products that meet customer needs and expectations. I am proficient in using industry-standard tools and techniques for software development, including programming languages, frameworks, and integrated development environments (IDEs). In addition, I have a strong understanding of software engineering principles, including design patterns, testing, and quality assurance. I am well-equipped to apply these skills in a variety of professional settings, including software development, software project management, and software testing."
 			},
 			{
 				"company": "CSC 317 Introduction to Web Software Development",
 				"title": "Student",
 				"years": "June 2021 - August 2021",
-				"description": "Created a photo app where users can upload and comment on photos with JavaScript & MYSQL"
+				"description": "As a student in CSC 317 Introduction to Web Software Development, I have gained a solid foundation in the principles and practices of designing and developing web applications. Through coursework and hands-on projects, I have learned how to build interactive and responsive web applications using a variety of languages and frameworks, including HTML, CSS, JavaScript, and jQuery. I am proficient in using industry-standard tools and techniques for web development, including version control systems and cloud deployment platforms. In addition, I have a strong understanding of web development best practices, including user experience design and performance optimization. I am well-equipped to apply these skills in a variety of professional settings, including web development, front-end development, and user experience design. "
 			}
 		],
 		"skills": [
 			{
-				"name": "JavaScript",
-				"level": "95%"
+				"name": "Cooking",
+				"level": "40%"
 			},
 			{
-				"name": "Firebase",
-				"level": "70%"
+				"name": "Piano",
+				"level": "10%"
 			},
 			{
-				"name": "ReactJs",
-				"level": "90%"
+				"name": "Every programming language you can think of",
+				"level": "100%"
 			}
 		]
 	},
