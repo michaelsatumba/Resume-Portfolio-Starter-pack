@@ -2,6 +2,27 @@ import React from 'react';
 
 const Portfolio = ({ data }) => {
 	if (data) {
+		var threeProjects = data.threeProjects.map(function (threeProjects) {
+			var threeProjectImage = 'images/portfolio/' + threeProjects.image;
+			return (
+				<div key={threeProjects.image} className="columns portfolio-item">
+					<div className="item-wrap">
+						<a href={threeProjects.url} title={threeProjects.title}>
+							<img alt={threeProjects.title} src={threeProjectImage} />
+							<div className="overlay">
+								<div className="portfolio-item-meta">
+									<h5>{threeProjects.title}</h5>
+									<p>{threeProjects.category}</p>
+								</div>
+							</div>
+							<div className="link-icon">
+								<i className="fa fa-link"></i>
+							</div>
+						</a>
+					</div>
+				</div>
+			);
+		});
 		var projects = data.projects.map(function (projects) {
 			var projectImage = 'images/portfolio/' + projects.image;
 			return (
@@ -50,7 +71,17 @@ const Portfolio = ({ data }) => {
 		<section id="portfolio">
 			<div className="row">
 				<div className="twelve columns collapsed">
-					<h1>Personal Projects.</h1>
+					<h1>Top 3</h1>
+
+					<div
+						id="portfolio-wrapper"
+						className="bgrid-quarters s-bgrid-thirds cf"
+					>
+						{threeProjects}
+					</div>
+				</div>
+				<div className="twelve columns collapsed">
+					<h1>Personal Projects</h1>
 
 					<div
 						id="portfolio-wrapper"
@@ -60,7 +91,7 @@ const Portfolio = ({ data }) => {
 					</div>
 				</div>
 				<div className="twelve columns collapsed">
-					<h1>School Projects.</h1>
+					<h1>School Projects</h1>
 
 					<div
 						id="portfolio-wrapper"

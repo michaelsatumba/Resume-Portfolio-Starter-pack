@@ -148,18 +148,12 @@
 		]
 	},
 	"portfolio": {
-		"projects": [
+		"threeProjects": [
 			{
 				"title": "Want to exercise but don't feel motivated to? Novelty is a great motivator. Here is a random exercise generator.",
 				"category": "",
 				"image": "neomania.png",
 				"url": "https://neomania.vercel.app/"
-			},
-			{
-				"title": "Want to workout with other people?",
-				"category": "",
-				"image": "lifterWeb.png",
-				"url": "https://tinder-clone-1-gamma.vercel.app/"
 			},
 			{
 				"title": "CRUD application to communicate with my family.",
@@ -168,40 +162,18 @@
 				"url": "https://family-facebook.vercel.app"
 			},
 			{
-				"title": "Want to know the what workout you should do based on the weather?",
-				"category": "",
-				"image": "weatherAnyStorm.png",
-				"url": "https://weather-any-storm.vercel.app/"
-			},
-			{
-				"title": "Want to keep track of your workout like saitama?",
-				"category": "",
-				"image": "saitamaToDoList.png",
-				"url": "https://not-todo-app-pmtrtfv8a-michaelsatumba.vercel.app/"
-			},
-			{
 				"title": "Want to see how many calories you would lose from point a to point b?",
 				"category": "",
 				"image": "calorieMapWeb.png",
 				"url": "https://calorie-map-web.vercel.app/"
-			},
+			}
+		],
+		"projects": [
 			{
-				"title": "Want to know what time it is? With a quote!",
+				"title": "Want to know the what workout you should do based on the weather?",
 				"category": "",
-				"image": "timepiece.png",
-				"url": "https://timepiece.vercel.app/"
-			},
-			{
-				"title": "Want to be a DJ?",
-				"category": "",
-				"image": "beatbox.png",
-				"url": "https://beatbox-six.vercel.app/"
-			},
-			{
-				"title": "Want to know what time it is? With a quote!",
-				"category": "",
-				"image": "Clock.png",
-				"url": "https://clock-app-sooty.vercel.app/"
+				"image": "weatherAnyStorm.png",
+				"url": "https://weather-any-storm.vercel.app/"
 			},
 			{
 				"title": "Want to know how much to tip?",
@@ -222,22 +194,10 @@
 				"url": "https://julian-sanchez.vercel.app/"
 			},
 			{
-				"title": "Want to see the Papafam mobile app?",
-				"category": "",
-				"image": "Papafam.png",
-				"url": "https://youtu.be/3JDNk8YCUko"
-			},
-			{
 				"title": "Want to see comedy in Ventura Couunty?",
 				"category": "",
 				"image": "VenturaCountyOpenMics.png",
 				"url": "https://ventura-county-open-mics.vercel.app/"
-			},
-			{
-				"title": "Don't know which one to do tonight?",
-				"category": "",
-				"image": "LoveShuffle.png",
-				"url": "https://michaelsatumba.github.io/Love-Shuffle/"
 			}
 		],
 		"schoolProjects": [
