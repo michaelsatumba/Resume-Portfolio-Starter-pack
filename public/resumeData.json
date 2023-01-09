@@ -150,6 +150,12 @@
 	"portfolio": {
 		"threeProjects": [
 			{
+				"title": "Want to see how many calories you would lose from point a to point b?",
+				"category": "",
+				"image": "calorieMapWeb.png",
+				"url": "https://calorie-map-web.vercel.app/"
+			},
+			{
 				"title": "Want to exercise but don't feel motivated to? Novelty is a great motivator. Here is a random exercise generator.",
 				"category": "",
 				"image": "neomania.png",
@@ -160,12 +166,6 @@
 				"category": "",
 				"image": "familyFacebook.png",
 				"url": "https://family-facebook.vercel.app"
-			},
-			{
-				"title": "Want to see how many calories you would lose from point a to point b?",
-				"category": "",
-				"image": "calorieMapWeb.png",
-				"url": "https://calorie-map-web.vercel.app/"
 			}
 		],
 		"projects": [
