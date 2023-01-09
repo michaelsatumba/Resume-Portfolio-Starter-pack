@@ -1,6 +1,16 @@
 import React from 'react';
 
 const Resume = ({ data }) => {
+	const [showDescription, setShowDescription] = React.useState({});
+
+	const toggleDescription = (id) => {
+		setShowDescription((prevState) => ({
+			...prevState,
+			[id]: !prevState[id],
+		}));
+		console.log(showDescription);
+	};
+
 	if (data) {
 		var skillmessage = data.skillmessage;
 		var education = data.education.map(function (education) {
@@ -27,15 +37,16 @@ const Resume = ({ data }) => {
 		});
 		var work = data.work.map(function (work) {
 			return (
-				<div key={work.company}>
+				<div key={work.id}>
 					<h3>{work.company}</h3>
 					<p className="info">
 						{work.title}
 						<span>&bull;</span> <em className="date">{work.years}</em>
 					</p>
-					<p>{work.description}</p>
-					<p>{work.description1}</p>
-					<p>{work.description2}</p>
+					{showDescription[work.id] ? <p>{work.description}</p> : null}
+					<button onClick={() => toggleDescription(work.id)}>
+						Toggle Description
+					</button>
 				</div>
 			);
 		});
