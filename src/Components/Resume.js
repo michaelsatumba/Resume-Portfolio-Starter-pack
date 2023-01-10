@@ -2,6 +2,7 @@ import React from 'react';
 
 const Resume = ({ data }) => {
 	const [showDescription, setShowDescription] = React.useState({});
+	const [showDescription2, setShowDescription2] = React.useState(false);
 
 	const toggleDescription = (id) => {
 		setShowDescription((prevState) => ({
@@ -11,27 +12,41 @@ const Resume = ({ data }) => {
 		console.log(showDescription);
 	};
 
+	const handleClick = () => {
+		setShowDescription2(!showDescription2);
+	};
+
 	if (data) {
 		var skillmessage = data.skillmessage;
 		var education = data.education.map(function (education) {
 			return (
 				<div key={education.school}>
 					<h3>{education.school}</h3>
-					<p className="info">
-						{education.degree} <span>&bull;</span>
-						<em className="date">{education.graduated}</em>
-					</p>
-					<p className="info">
-						{education.degree2} <span>&bull;</span>
-						<em className="date">{education.graduated}</em>
-					</p>
-					<p className="info">
-						{education.degree3} <span>&bull;</span>
-						<em className="date">{education.graduated2}</em>
-					</p>
-					<p className="info">{education.description}</p>
-					<p className="info">{education.description1}</p>
-					<p className="info">{education.description2}</p>
+					{showDescription2 ? (
+						<div>
+							<p className="info">
+								{education.degree} <span>&bull;</span>
+								<em className="date">{education.graduated}</em>
+							</p>
+							<p className="info">
+								{education.degree2} <span>&bull;</span>
+								<em className="date">{education.graduated}</em>
+							</p>
+							<p className="info">
+								{education.degree3} <span>&bull;</span>
+								<em className="date">{education.graduated2}</em>
+							</p>
+							<p className="info">{education.description}</p>
+							<p className="info">{education.description1}</p>
+							<p className="info">{education.description2}</p>
+							<img src="/images/gradCert.png" alt="graduateCert" />
+							<img src="/images/masters.png" alt="masters" />
+							<br />
+							<button onClick={handleClick}>Toggle Description</button>
+						</div>
+					) : (
+						<button onClick={handleClick}>Toggle Description</button>
+					)}
 				</div>
 			);
 		});
@@ -83,12 +98,12 @@ const Resume = ({ data }) => {
 						// }}
 					>
 						<div className="twelve columns">{education}</div>
-						<div>
+						{/* <div>
 							<img src="/images/gradCert.png" alt="graduateCert" />
 						</div>
 						<div>
 							<img src="/images/masters.png" alt="masters" />
-						</div>
+						</div> */}
 					</div>
 				</div>
 			</div>
