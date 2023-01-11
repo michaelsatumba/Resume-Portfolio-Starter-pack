@@ -229,25 +229,26 @@
 				"title": "Want to play uno?",
 				"category": "",
 				"image": "Uno.png",
-				"url": "https://salty-plains-39190.herokuapp.com/"
+				"url": "https://github.com/michaelsatumba/UNO"
 			},
 			{
 				"title": "Do you need a server?",
 				"category": "",
 				"image": "webServer.png",
-				"url": "https://github.com/sfsu-csc-667-fall-2021/web-server-alex-michael-repo"
+				"url": "https://github.com/michaelsatumba/Web-Server"
+			},
+
+			{
+				"title": "Want to workout with other people?",
+				"category": "",
+				"image": "FitHub.png",
+				"url": "https://github.com/michaelsatumba/Fit-Hub"
 			},
 			{
 				"title": "Want to see code for a photo sharing app?",
 				"category": "",
 				"image": "PhotoApp.png",
 				"url": "https://www.youtube.com/watch?v=_VmuTgwfs54&t=11s"
-			},
-			{
-				"title": "Want to workout with other people?",
-				"category": "",
-				"image": "FitHub.png",
-				"url": "http://100.26.92.104:3000/"
 			}
 		]
 	},
