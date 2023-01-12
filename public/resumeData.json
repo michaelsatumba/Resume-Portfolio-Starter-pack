@@ -198,6 +198,12 @@
 				"category": "",
 				"image": "VenturaCountyOpenMics.png",
 				"url": "https://ventura-county-open-mics.vercel.app/"
+			},
+			{
+				"title": "Tinder for cats.",
+				"category": "",
+				"image": "tinCat.png",
+				"url": "https://michaelsatumba.github.io/TinCat/"
 			}
 		],
 		"schoolProjects": [
