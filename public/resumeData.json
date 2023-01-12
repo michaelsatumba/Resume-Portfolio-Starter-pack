@@ -200,6 +200,12 @@
 				"url": "https://ventura-county-open-mics.vercel.app/"
 			},
 			{
+				"title": "Test your memory",
+				"category": "",
+				"image": "memoryGame.png",
+				"url": "https://michaelsatumba.github.io/Memory-Game/"
+			},
+			{
 				"title": "Tinder for cats.",
 				"category": "",
 				"image": "tinCat.png",
