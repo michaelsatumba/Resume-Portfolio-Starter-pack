@@ -162,10 +162,10 @@
 				"url": "https://neomania.vercel.app/"
 			},
 			{
-				"title": "CRUD application to communicate with my family.",
+				"title": "Tinder for cats.",
 				"category": "",
-				"image": "familyFacebook.png",
-				"url": "https://family-facebook.vercel.app"
+				"image": "tinCat.png",
+				"url": "https://michaelsatumba.github.io/TinCat/"
 			}
 		],
 		"projects": [
@@ -206,10 +206,10 @@
 				"url": "https://michaelsatumba.github.io/Memory-Game/"
 			},
 			{
-				"title": "Tinder for cats.",
+				"title": "CRUD application to communicate with my family.",
 				"category": "",
-				"image": "tinCat.png",
-				"url": "https://michaelsatumba.github.io/TinCat/"
+				"image": "familyFacebook.png",
+				"url": "https://family-facebook.vercel.app"
 			}
 		],
 		"schoolProjects": [
