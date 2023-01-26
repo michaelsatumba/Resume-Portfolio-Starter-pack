@@ -156,19 +156,25 @@
 				"url": "https://calorie-map-web.vercel.app/"
 			},
 			{
+				"title": "Tinder for cats.",
+				"category": "",
+				"image": "tinCat.png",
+				"url": "https://michaelsatumba.github.io/TinCat/"
+			},
+			{
+				"title": "Are you tired of spending hours applying to jobs online? Introducing WyzantEasyApply - a simple yet practical solution to automate your job application process.",
+				"category": "",
+				"image": "wyzantEasyApply.png",
+				"url": "https://youtu.be/cxvrES7Cpsk"
+			}
+		],
+		"projects": [
+			{
 				"title": "Want to exercise but don't feel motivated to? Novelty is a great motivator. Here is a random exercise generator.",
 				"category": "",
 				"image": "neomania.png",
 				"url": "https://neomania.vercel.app/"
 			},
-			{
-				"title": "Tinder for cats.",
-				"category": "",
-				"image": "tinCat.png",
-				"url": "https://michaelsatumba.github.io/TinCat/"
-			}
-		],
-		"projects": [
 			{
 				"title": "Want to know the what workout you should do based on the weather?",
 				"category": "",
