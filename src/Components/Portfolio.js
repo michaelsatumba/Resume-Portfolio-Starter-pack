@@ -23,6 +23,29 @@ const Portfolio = ({ data }) => {
 				</div>
 			);
 		});
+		var freelanceProjects = data.freelanceProjects.map(function (
+			freelanceProjects
+		) {
+			var freelanceProjectImage = 'images/portfolio/' + freelanceProjects.image;
+			return (
+				<div key={freelanceProjects.image} className="columns portfolio-item">
+					<div className="item-wrap">
+						<a href={freelanceProjects.url} title={freelanceProjects.title}>
+							<img alt={freelanceProjects.title} src={freelanceProjectImage} />
+							<div className="overlay">
+								<div className="portfolio-item-meta">
+									<h5>{freelanceProjects.title}</h5>
+									<p>{freelanceProjects.category}</p>
+								</div>
+							</div>
+							<div className="link-icon">
+								<i className="fa fa-link"></i>
+							</div>
+						</a>
+					</div>
+				</div>
+			);
+		});
 		var projects = data.projects.map(function (projects) {
 			var projectImage = 'images/portfolio/' + projects.image;
 			return (
@@ -78,6 +101,16 @@ const Portfolio = ({ data }) => {
 						className="bgrid-quarters s-bgrid-thirds cf"
 					>
 						{threeProjects}
+					</div>
+				</div>
+				<div className="twelve columns collapsed">
+					<h1>Freelance Projects</h1>
+
+					<div
+						id="portfolio-wrapper"
+						className="bgrid-quarters s-bgrid-thirds cf"
+					>
+						{freelanceProjects}
 					</div>
 				</div>
 				<div className="twelve columns collapsed">

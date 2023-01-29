@@ -168,6 +168,20 @@
 				"url": "https://youtu.be/cxvrES7Cpsk"
 			}
 		],
+		"freelanceProjects": [
+			{
+				"title": "Want to know The CA Rob?",
+				"category": "",
+				"image": "TheCARob.png",
+				"url": "https://the-ca-rob.vercel.app/"
+			},
+			{
+				"title": "Want to know Julian?",
+				"category": "",
+				"image": "JuliansPortfolio.png",
+				"url": "https://julian-sanchez.vercel.app/"
+			}
+		],
 		"projects": [
 			{
 				"title": "Want to exercise but don't feel motivated to? Novelty is a great motivator. Here is a random exercise generator.",
@@ -186,18 +200,6 @@
 				"category": "",
 				"image": "Splitter.png",
 				"url": "https://tip-calculator-app-main-delta-seven.vercel.app/"
-			},
-			{
-				"title": "Want to know The CA Rob?",
-				"category": "",
-				"image": "TheCARob.png",
-				"url": "https://the-ca-rob.vercel.app/"
-			},
-			{
-				"title": "Want to know Julian?",
-				"category": "",
-				"image": "JuliansPortfolio.png",
-				"url": "https://julian-sanchez.vercel.app/"
 			},
 			{
 				"title": "Want to see comedy in Ventura Couunty?",
