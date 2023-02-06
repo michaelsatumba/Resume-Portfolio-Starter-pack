@@ -155,12 +155,17 @@
 				"image": "calorieMapWeb.png",
 				"url": "https://calorie-map-web.vercel.app/"
 			},
-
 			{
 				"title": "Are you tired of spending hours applying to jobs online? Introducing WyzantEasyApply - a simple yet practical solution to automate your job application process.",
 				"category": "",
 				"image": "wyzantEasyApply.png",
 				"url": "https://youtu.be/cxvrES7Cpsk"
+			},
+			{
+				"title": "This app is a NBA game schedule tracker that retrieves games based on city and date, and displays the results in a bar graph format.",
+				"category": "",
+				"image": "nbaTicketManager.png",
+				"url": "https://nba-ticket-manager.vercel.app/"
 			}
 		],
 		"freelanceProjects": [
