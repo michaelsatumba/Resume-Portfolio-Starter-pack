@@ -162,10 +162,10 @@
 				"url": "https://youtu.be/cxvrES7Cpsk"
 			},
 			{
-				"title": "This app is a NBA game schedule tracker that retrieves games based on city and date, and displays the results in a bar graph format.",
+				"title": "This app is a game schedule tracker that retrieves games based on sport, city, date, and displays the results in a bar and line graph format.",
 				"category": "",
-				"image": "nbaTicketManager.png",
-				"url": "https://nba-ticket-manager.vercel.app/"
+				"image": "sportsTicketManager.png",
+				"url": "https://sports-ticket-manager.vercel.app/"
 			}
 		],
 		"freelanceProjects": [
