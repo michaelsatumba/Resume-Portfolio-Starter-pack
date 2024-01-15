@@ -57,37 +57,37 @@
 				"graduated2": "May 2020",
 				"description": "Minors in Atheltic Coaching & Communication",
 				"description1": "Study Abroad: City University of Hong Kong",
-				"description2": "Study Abroad: University of Technology, Sydney, Australia "
+				"description2": "Study Abroad: University of Technology, Sydney, Australia"
 			}
 		],
 		"work": [
 			{
 				"id": 1,
-				"company": "Ticket Manager",
+				"company": "TicketManager",
 				"title": "Associate Software Engineer",
-				"years": "February 2022 - Present",
-				"description": "As a Software Engineer at Ticket Manager, I specialize in developing and maintaining the credential product. Specifically, I am responsible for creating and designing badges that grant access to various events and arenas. To achieve this, I utilize my skills in HTML, CSS, and JavaScript to ensure that the badges are functional, visually appealing, and easy to use for event-goers. My role also involves collaborating with other team members to troubleshoot and resolve any issues that arise with the credential product. I am committed to staying up-to-date with the latest web development technologies and trends to ensure that our product is of the highest quality. As a Software Engineer, I take pride in my attention to detail and my ability to work independently while still being an integral part of the team. I am passionate about delivering a seamless and efficient user experience for our customers, and I am committed to maintaining the high standards that Ticket Manager is known for.In summary, my role as a Software Engineer at Ticket Manager involves designing and developing credential products such as badges for events and arenas, utilizing my skills in HTML, CSS, and JavaScript. I work collaboratively with team members to ensure that the credential product is of the highest quality, and I am committed to providing an excellent user experience for event-goers."
+				"years": "February 2023 - Present",
+				"description": "As a Software Engineer at TicketManager, I specialize in the innovative development and meticulous maintenance of the credential product, crucial for access management to events and arenas for esteemed clients like Coca-Cola, Gatorade, Mercedes, PWC, Allianz, FDJ, DHL, SailGP, JustEats, and Asahi. My expertise centers on designing and implementing access badges, utilizing advanced HTML, CSS, and JavaScript skills to ensure they are not only functional and secure but also aesthetically pleasing and user-friendly. In this role, I engage in proactive collaboration with team members, addressing and resolving any challenges that arise with the credential product. This collaborative effort has been instrumental in delivering a seamless experience for high-profile events catered to our clients. My commitment to staying abreast of the latest trends in web development is a testament to my dedication to elevating the quality of our products continually. My role encapsulates not just the technical aspects of web development but also an acute understanding of client needs and expectations, especially when dealing with high-caliber clients. I pride myself on my meticulous attention to detail, my ability to thrive in both team settings and independent projects, and my unwavering commitment to delivering an exceptional user experience for the attendees of our clients' prestigious events. In summary, as a Software Engineer at TicketManager, my responsibilities encompass the design and development of web appliacations and mobile apps. My role is pivotal in ensuring these products meet the high standards of our notable clientele, and I am committed to continuous improvement and excellence in user experience within the dynamic event management industry."
 			},
 			{
 				"id": 2,
-				"company": "Wevise",
-				"title": "Software Engineer",
-				"years": "January 2022 - Present",
-				"description": "As a Software Engineer at Wevise, I specialize in developing and maintaining API endpoints using RESTful APIs, Node.js, and other server-side technologies. Additionally, I utilize Firebase to ensure that our platform is secure, scalable, and highly available. Working closely with product managers and front-end developers, I write clean and efficient code that meets the needs of our users. I conduct thorough testing to ensure that the API endpoints are functioning correctly and adhere to industry best practices. In addition, I stay up-to-date with the latest web development technologies and trends to ensure that our solutions are of the highest quality. As a Software Engineer at Wevise, I am dedicated to delivering high-quality solutions that meet the needs of our users. I take pride in my ability to work both independently and as part of a team and I am committed to maintaining the high standards that Wevise is known for."
-			},
-			{
-				"id": 3,
 				"company": "Wyzant",
 				"title": "Tutor",
 				"years": "October 2022 - Present",
 				"description": "As a computer science tutor, I have a passion for helping students learn and succeed in their studies. With a strong background in computer science and a deep understanding of the subject matter, I am able to provide personalized and effective tutoring sessions that cater to the specific needs and goals of each student. Whether you are struggling with a particular course or looking to excel in your studies, I am here to help. My approach to tutoring is hands-on and interactive, with a focus on practical applications and real-world examples. I believe that the best way to learn is by doing, and I encourage my students to ask questions and get involved in the learning process. I have experience working with students of all levels, from beginners to advanced learners, and I am skilled at breaking down complex concepts into easy-to-understand explanations. My goal is to help my students not only understand the material, but also develop a love for computer science and a lifelong desire to learn and grow.In addition to my expertise in computer science, I am also a patient and compassionate tutor who is dedicated to helping my students succeed. I look forward to working with you and helping you achieve your academic goals."
 			},
 			{
-				"id": 4,
+				"id": 3,
 				"company": "Ventura Comedy Club",
 				"title": "Comedy Host",
 				"years": "October 2018 - Present",
 				"description": "As the host of Ventura Comedy Club, I am responsible for introducing and welcoming comedians to the stage, as well as keeping the show running smoothly and efficiently. With a strong presence and the ability to engage with the audience, I bring a good sense of humor and quick wit to handle any unexpected situations that may arise. In addition to hosting duties, I also have experience in booking comedians, coordinating with venue staff, and promoting the show through social media and other channels. With a background in stand-up comedy and hosting, excellent communication skills, and the ability to think on my feet, I am the ideal candidate for this exciting opportunity. If you are looking for a natural performer with a love for comedy and the ability to keep a crowd entertained, I am the host for you. So, come and join me for a night of laughter and entertainment at Ventura Comedy Club."
+			},
+			{
+				"id": 4,
+				"company": "Wevise",
+				"title": "Software Engineer",
+				"years": "January 2023 - March 2023",
+				"description": "As a Software Engineer at Wevise, I specialize in developing and maintaining API endpoints using RESTful APIs, Node.js, and other server-side technologies. Additionally, I utilize Firebase to ensure that our platform is secure, scalable, and highly available. Working closely with product managers and front-end developers, I write clean and efficient code that meets the needs of our users. I conduct thorough testing to ensure that the API endpoints are functioning correctly and adhere to industry best practices. In addition, I stay up-to-date with the latest web development technologies and trends to ensure that our solutions are of the highest quality. As a Software Engineer at Wevise, I am dedicated to delivering high-quality solutions that meet the needs of our users. I take pride in my ability to work both independently and as part of a team and I am committed to maintaining the high standards that Wevise is known for."
 			},
 			{
 				"id": 5,
@@ -156,8 +156,8 @@
 				"level": "10%"
 			},
 			{
-				"name": "Every programming language you can think of",
-				"level": "100%"
+				"name": "Comedy",
+				"level": "30%"
 			}
 		]
 	},

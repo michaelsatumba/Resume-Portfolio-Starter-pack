@@ -36,9 +36,9 @@ const Resume = ({ data }) => {
 								{education.degree3} <span>&bull;</span>
 								<em className="date">{education.graduated2}</em>
 							</p>
-							<p className="info">{education.description}</p>
-							<p className="info">{education.description1}</p>
-							<p className="info">{education.description2}</p>
+							<p className="info">{education.description}<span>&bull;</span><em className="date">{education.graduated2}</em></p>
+							<p className="info">{education.description1}<span>&bull;</span><em className="date">Fall 2018</em></p>
+							<p className="info">{education.description2}<span>&bull;</span><em className="date">Spring 2019</em></p>
 							<img src="/images/gradCert.png" alt="graduateCert" />
 							<img src="/images/masters.png" alt="masters" />
 							<br />
