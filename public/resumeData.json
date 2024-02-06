@@ -5,7 +5,7 @@
 		"description": "",
 		"image": "profilepic.jpg",
 		"image1": "picture.jpg",
-		"bio": "Hello! My name is Michael and I am a full-time software engineer at Ticket Manager, where I work on the credentialing product. In my spare time, I also tutor computer science. My tutoring services are focused on helping students improve their understanding of computer science subjects and gain practical skills in programming. I received my undergraduate and graduate degrees in Kinesiology from San Francisco State University, and also earned a graduate certificate in software engineering. In addition to my work, I enjoy practicing Brazilian Jiu-Jitsu and performing stand-up comedy. I am always looking for opportunities to further develop my skills as a software engineer and to connect with others in the field. Please feel free to reach out to me if you have any questions or just want to chat!",
+		"bio": "Hello! My name is Michael and I am a full-time software engineer at TicketManager. In my spare time, I also tutor computer science. My tutoring services are focused on helping students improve their understanding of computer science subjects and gain practical skills in programming. I received my undergraduate and graduate degrees in Kinesiology from San Francisco State University, and also earned a graduate certificate in software engineering. In addition to my work, I enjoy practicing Brazilian Jiu-Jitsu and performing stand-up comedy. I am always looking for opportunities to further develop my skills as a software engineer and to connect with others in the field. Please feel free to reach out to me if you have any questions or just want to chat!",
 		"contactmessage": "Get in touch with me to be build something cool!",
 		"email": "mjsatumba@gmail.com",
 		"phone": "+01 1234567899",
@@ -20,7 +20,7 @@
 		"social": [
 			{
 				"name": "youtube",
-				"url": "https://www.youtube.com/channel/UCNyBRcLB29t5O3KI8RypL6A",
+				"url": "https://www.youtube.com/watch?v=9ec59gz3bpU",
 				"className": "fa fa-youtube"
 			},
 			{
