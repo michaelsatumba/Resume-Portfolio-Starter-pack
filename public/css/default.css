@@ -802,6 +802,25 @@ properly.
 	text-align: center !important;
 }
 
+.hobbies-section {
+   text-align: center;
+   color: white;
+ }
 
+ .white {
+   color: white;
+ }
+
+ .bjjImage {
+   max-width: 30%;
+ }
+
+ .video-container {
+   display: 'flex';
+   justify-content: 'center';
+   flex-direction: 'column';
+   align-items: 'center';
+ }
+ 
 
 

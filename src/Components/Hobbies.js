@@ -2,19 +2,19 @@ import React from 'react';
 
 const Hobbies = ({ data }) => {
     return (
-        <section id="hobbies" style={{ textAlign: 'center', color: 'white' }}>
+        <section id="hobbies" className="hobbies-section">
             <div className="row">
                 <div className="twelve columns">
                 <br/>
-                    <h1 style={{color: 'white'}}>Hobbies</h1>
+                    <h1 className="white">Hobbies</h1>
                 </div>
             </div>
 
             {/* Brazilian Jiu Jitsu Section */}
     <div className="row" >
     <div className="twelve columns">
-        <h2 style={{ color: 'white' }}>Brazilian Jiu Jitsu</h2>
-        <img src="/images/bjj.jpg" alt="Brazilian Jiu Jitsu" style={{ maxWidth: '30%' }} />
+        <h2 className="white">Brazilian Jiu Jitsu</h2>
+        <img src="/images/bjj.jpg" alt="Brazilian Jiu Jitsu" className="bjjImage"/>
         <p>
             Enthusiastic about the art of Brazilian Jiu Jitsu, constantly learning and evolving on the mats. 
             It's not just a sport, but a lifestyle that teaches discipline, respect, and the importance of continuous improvement.
@@ -26,8 +26,8 @@ const Hobbies = ({ data }) => {
             {/* Comedy Section */}
             <div className="row">
                 <div className="twelve columns">
-                    <h2 style={{color: 'white'}}>Comedy</h2>
-                    <div className="video-container" style={{ display: 'flex', justifyContent: 'center', flexDirection: 'column', alignItems: 'center' }}>
+                    <h2 className="white">Comedy</h2>
+                    <div className="video-container" >
 `                        <iframe 
                         width="560" 
                         height="315" 
