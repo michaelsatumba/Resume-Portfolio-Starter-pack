@@ -5,7 +5,7 @@
 		"description": "",
 		"image": "profilepic.jpg",
 		"image1": "picture.jpg",
-		"bio": "Hello! My name is Michael and I am a full-time software engineer at TicketManager. In my spare time, I also tutor computer science. My tutoring services are focused on helping students improve their understanding of computer science subjects and gain practical skills in programming. I received my undergraduate and graduate degrees in Kinesiology from San Francisco State University, and also earned a graduate certificate in software engineering. In addition to my work, I enjoy practicing Brazilian Jiu-Jitsu and performing stand-up comedy. I am always looking for opportunities to further develop my skills as a software engineer and to connect with others in the field. Please feel free to reach out to me if you have any questions or just want to chat!",
+		"bio": "Hello! My name is Michael, and I focus on tutoring in computer science and making web applications for companies. My tutoring services are focused on helping students improve their understanding of computer science subjects and gain practical skills in programming. I received my undergraduate and graduate degrees in Kinesiology from San Francisco State University and also earned a graduate certificate in software engineering. In my spare time, I enjoy practicing Brazilian Jiu-Jitsu and performing stand-up comedy. I am always looking for opportunities to develop my software engineering skills further and connect with others in the field. Please feel free to reach out if you have any questions or just want to chat!",
 		"contactmessage": "Get in touch with me to be build something cool!",
 		"email": "mjsatumba@gmail.com",
 		"phone": "+01 1234567899",
@@ -63,13 +63,6 @@
 		"work": [
 			{
 				"id": 1,
-				"company": "TicketManager",
-				"title": "Associate Software Engineer",
-				"years": "February 2023 - Present",
-				"description": "As a Software Engineer at TicketManager, I specialize in the innovative development and meticulous maintenance of the credential product, crucial for access management to events and arenas for esteemed clients like Coca-Cola, Gatorade, Mercedes, PWC, Allianz, FDJ, DHL, SailGP, JustEats, and Asahi. My expertise centers on designing and implementing access badges, utilizing advanced HTML, CSS, and JavaScript skills to ensure they are not only functional and secure but also aesthetically pleasing and user-friendly. In this role, I engage in proactive collaboration with team members, addressing and resolving any challenges that arise with the credential product. This collaborative effort has been instrumental in delivering a seamless experience for high-profile events catered to our clients. My commitment to staying abreast of the latest trends in web development is a testament to my dedication to elevating the quality of our products continually. My role encapsulates not just the technical aspects of web development but also an acute understanding of client needs and expectations, especially when dealing with high-caliber clients. I pride myself on my meticulous attention to detail, my ability to thrive in both team settings and independent projects, and my unwavering commitment to delivering an exceptional user experience for the attendees of our clients' prestigious events. In summary, as a Software Engineer at TicketManager, my responsibilities encompass the design and development of web appliacations and mobile apps. My role is pivotal in ensuring these products meet the high standards of our notable clientele, and I am committed to continuous improvement and excellence in user experience within the dynamic event management industry."
-			},
-			{
-				"id": 2,
 				"company": "Wyzant",
 				"title": "Tutor",
 				"years": "October 2022 - Present",
@@ -81,6 +74,13 @@
 				"title": "Comedy Host",
 				"years": "October 2018 - Present",
 				"description": "As the host of Ventura Comedy Club, I am responsible for introducing and welcoming comedians to the stage, as well as keeping the show running smoothly and efficiently. With a strong presence and the ability to engage with the audience, I bring a good sense of humor and quick wit to handle any unexpected situations that may arise. In addition to hosting duties, I also have experience in booking comedians, coordinating with venue staff, and promoting the show through social media and other channels. With a background in stand-up comedy and hosting, excellent communication skills, and the ability to think on my feet, I am the ideal candidate for this exciting opportunity. If you are looking for a natural performer with a love for comedy and the ability to keep a crowd entertained, I am the host for you. So, come and join me for a night of laughter and entertainment at Ventura Comedy Club."
+			},
+			{
+				"id": 2,
+				"company": "TicketManager",
+				"title": "Associate Software Engineer",
+				"years": "February 2023 - May 2024",
+				"description": "As a Software Engineer at TicketManager, I specialize in the innovative development and meticulous maintenance of the credential product, crucial for access management to events and arenas for esteemed clients like Coca-Cola, Gatorade, Mercedes, PWC, Allianz, FDJ, DHL, SailGP, JustEats, and Asahi. My expertise centers on designing and implementing access badges, utilizing advanced HTML, CSS, and JavaScript skills to ensure they are not only functional and secure but also aesthetically pleasing and user-friendly. In this role, I engage in proactive collaboration with team members, addressing and resolving any challenges that arise with the credential product. This collaborative effort has been instrumental in delivering a seamless experience for high-profile events catered to our clients. My commitment to staying abreast of the latest trends in web development is a testament to my dedication to elevating the quality of our products continually. My role encapsulates not just the technical aspects of web development but also an acute understanding of client needs and expectations, especially when dealing with high-caliber clients. I pride myself on my meticulous attention to detail, my ability to thrive in both team settings and independent projects, and my unwavering commitment to delivering an exceptional user experience for the attendees of our clients' prestigious events. In summary, as a Software Engineer at TicketManager, my responsibilities encompass the design and development of web appliacations and mobile apps. My role is pivotal in ensuring these products meet the high standards of our notable clientele, and I am committed to continuous improvement and excellence in user experience within the dynamic event management industry."
 			},
 			{
 				"id": 4,
