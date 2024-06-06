@@ -811,6 +811,7 @@ call-to-action .button {
 .flexslider .slides > li {
 	display: none;
 	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
 }
 /* Suggested container for slide animation setups. Can replace this with your own */
 .flex-container {
@@ -855,7 +856,7 @@ call-to-action .button {
 	margin: 0 6px;
 	display: inline-block;
 	zoom: 1;
-	*display: inline;
+	display: inline;
 }
 .flex-control-paging li a {
 	width: 12px;
@@ -947,7 +948,6 @@ call-to-action .button {
 	margin: 12px 0;
 	color: #ebeeee;
 	display: inline-block;
-	float: left;
 	width: 26%;
 }
 #contact input,
