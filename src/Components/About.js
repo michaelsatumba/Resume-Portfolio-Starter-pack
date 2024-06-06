@@ -18,7 +18,7 @@ const About = ({ data }) => {
 		<section id="about">
 			<div className="row">
 				<div className="three columns">
-					<img className="profile-pic" src={profilepic} alt="Profile Pic" />
+					<img className="profile-pic" src={profilepic} alt="Profile Pic" loading="lazy"/>
 				</div>
 				<div className="nine columns main-col">
 					<h2>About Me</h2>

@@ -8,7 +8,7 @@ const Portfolio = ({ data }) => {
 				<div key={threeProjects.image} className="columns portfolio-item">
 					<div className="item-wrap">
 						<a href={threeProjects.url} title={threeProjects.title}>
-							<img alt={threeProjects.title} src={threeProjectImage} />
+							<img alt={threeProjects.title} src={threeProjectImage} loading="lazy"/>
 							<div className="overlay">
 								<div className="portfolio-item-meta">
 									<h5>{threeProjects.title}</h5>
@@ -31,7 +31,7 @@ const Portfolio = ({ data }) => {
 				<div key={freelanceProjects.image} className="columns portfolio-item">
 					<div className="item-wrap">
 						<a href={freelanceProjects.url} title={freelanceProjects.title}>
-							<img alt={freelanceProjects.title} src={freelanceProjectImage} />
+							<img alt={freelanceProjects.title} src={freelanceProjectImage} loading="lazy"/>
 							<div className="overlay">
 								<div className="portfolio-item-meta">
 									<h5>{freelanceProjects.title}</h5>
@@ -52,7 +52,7 @@ const Portfolio = ({ data }) => {
 				<div key={projects.image} className="columns portfolio-item">
 					<div className="item-wrap">
 						<a href={projects.url} title={projects.title}>
-							<img alt={projects.title} src={projectImage} />
+							<img alt={projects.title} src={projectImage} loading="lazy"/>
 							<div className="overlay">
 								<div className="portfolio-item-meta">
 									<h5>{projects.title}</h5>
@@ -73,7 +73,7 @@ const Portfolio = ({ data }) => {
 				<div key={schoolProjects.image} className="columns portfolio-item">
 					<div className="item-wrap">
 						<a href={schoolProjects.url} title={schoolProjects.title}>
-							<img alt={schoolProjects.title} src={projectImage} />
+							<img alt={schoolProjects.title} src={projectImage} loading="lazy"/>
 							<div className="overlay">
 								<div className="portfolio-item-meta">
 									<h5>{schoolProjects.title}</h5>

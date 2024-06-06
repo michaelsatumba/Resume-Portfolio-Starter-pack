@@ -14,7 +14,7 @@ const Hobbies = ({ data }) => {
     <div className="row" >
     <div className="twelve columns">
         <h2 className="white">Brazilian Jiu Jitsu</h2>
-        <img src="/images/bjj.jpg" alt="Brazilian Jiu Jitsu" className="bjjImage"/>
+        <img src="/images/bjj.jpg" alt="Brazilian Jiu Jitsu" className="bjjImage" loading="lazy"/>
         <p>
             Enthusiastic about the art of Brazilian Jiu Jitsu, constantly learning and evolving on the mats. 
             It's not just a sport, but a lifestyle that teaches discipline, respect, and the importance of continuous improvement.
