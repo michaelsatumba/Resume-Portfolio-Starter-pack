@@ -42,10 +42,10 @@ const Resume = ({ data }) => {
 							<img src="/images/gradCert.png" alt="graduateCert" loading="lazy"/>
 							<img src="/images/masters.png" alt="masters" loading="lazy"/>
 							<br />
-							<button onClick={handleClick}>Toggle Description</button>
+							<button onClick={handleClick}>Explore Further</button>
 						</div>
 					) : (
-						<button onClick={handleClick}>Toggle Description</button>
+						<button onClick={handleClick}>Explore Further</button>
 					)}
 				</div>
 			);
@@ -60,7 +60,7 @@ const Resume = ({ data }) => {
 					</p>
 					{showDescription[work.id] ? <p>{work.description}</p> : null}
 					<button onClick={() => toggleDescription(work.id)}>
-						Toggle Description
+					Explore Further
 					</button>
 				</div>
 			);
