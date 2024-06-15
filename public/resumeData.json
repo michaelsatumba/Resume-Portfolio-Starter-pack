@@ -204,6 +204,18 @@
 		],
 		"projects": [
 			{
+				"title": "Want to see how many calories you would lose from point a to point b?",
+				"category": "",
+				"image": "calorieMapWeb.png",
+				"url": "https://calorie-map-web.vercel.app/"
+			},
+			{
+				"title": "Are you tired of spending hours applying to jobs online? Introducing WyzantEasyApply - a simple yet practical solution to automate your job application process.",
+				"category": "",
+				"image": "wyzantEasyApply.png",
+				"url": "https://youtu.be/cxvrES7Cpsk"
+			},
+			{
 				"title": "Tinder for cats.",
 				"category": "",
 				"image": "tinCat.png",

@@ -93,7 +93,7 @@ const Portfolio = ({ data }) => {
 	return (
 		<section id="portfolio">
 			<div className="row">
-				<div className="twelve columns collapsed">
+				{/* <div className="twelve columns collapsed">
 					<h1>Top 2</h1>
 
 					<div
@@ -102,7 +102,7 @@ const Portfolio = ({ data }) => {
 					>
 						{threeProjects}
 					</div>
-				</div>
+				</div> */}
 				<div className="twelve columns collapsed">
 					<h1>Freelance Projects</h1>
 
