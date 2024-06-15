@@ -94,7 +94,7 @@ const Portfolio = ({ data }) => {
 		<section id="portfolio">
 			<div className="row">
 				<div className="twelve columns collapsed">
-					<h1>Top 3</h1>
+					<h1>Top 2</h1>
 
 					<div
 						id="portfolio-wrapper"

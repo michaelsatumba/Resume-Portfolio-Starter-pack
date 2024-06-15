@@ -174,12 +174,6 @@
 				"category": "",
 				"image": "wyzantEasyApply.png",
 				"url": "https://youtu.be/cxvrES7Cpsk"
-			},
-			{
-				"title": "This app is a game schedule tracker that retrieves games based on sport, city, date, and displays the results in a bar and line graph format.",
-				"category": "",
-				"image": "sportsTicketManager.png",
-				"url": "https://sports-ticket-manager.vercel.app/"
 			}
 		],
 		"freelanceProjects": [
