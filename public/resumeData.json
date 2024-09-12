@@ -176,6 +176,38 @@
 				"url": "https://youtu.be/cxvrES7Cpsk"
 			}
 		],
+		"interviewProjects": [
+			{
+				"title": "Crypto Price Tracker",
+				"category": "",
+				"image": "crypto.png",
+				"url": "https://michaelsatumba.github.io/cryptoPriceTracker/"
+			},
+			{
+				"title": "Solana Price Tracker",
+				"category": "",
+				"image": "Solana_Price_Tracker.png",
+				"url": "https://solana-charting-comments.vercel.app/"
+			},
+			{
+				"title": "Solana Data Visualization Dashboard",
+				"category": "",
+				"image": "Solana_Data_Visualization_Dashboard.png",
+				"url": "https://data-visualization-dashboard-navy.vercel.app/"
+			},
+			{
+				"title": "Solana Mobile First Trading App",
+				"category": "",
+				"image": "Solana_Mobile_First_Trading_App.png",
+				"url": "https://mobile-first-social-trading-app.vercel.app/"
+			},
+			{
+				"title": "With Panorama",
+				"category": "",
+				"image": "With_Panorama.png",
+				"url": "https://panorama-silk.vercel.app/company"
+			}
+		],
 		"freelanceProjects": [
 			{
 				"title": "Want to know The CA Rob?",
