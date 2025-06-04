@@ -61,7 +61,13 @@
 			}
 		],
 		"work": [
-			
+			{
+				"id": 1,
+				"company": "United Water Conservation District",
+				"title": "Technology Systems Administrator",
+				"years": "March 2025 - Present",
+				"description": "As a Technology Systems Administrator at United Water Conservation District, I am responsible for managing and maintaining the organization's technology infrastructure. My role involves overseeing the installation, configuration, and troubleshooting of hardware and software systems to ensure optimal performance and security. I collaborate with cross-functional teams to implement technology solutions that support the district's operations and enhance service delivery. My expertise in system administration allows me to proactively identify and resolve technical issues, ensuring minimal downtime and disruption. I am committed to leveraging technology to improve efficiency and effectiveness within the organization, while also providing exceptional support to end-users."
+			},
 			{
 				"id": 1,
 				"company": "Bridges and Barriers",
