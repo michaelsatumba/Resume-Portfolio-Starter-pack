@@ -100,8 +100,8 @@ const Resume = ({ data }) => {
                             </p>
                         )}
 
-                        {/* optional academic images for non-military entries */}
-                        {ed.school && !/coast guard/i.test(ed.school) && (
+						 {/* only show these two images for San Francisco State University */}
+                        {ed.school && /san francisco state/i.test(ed.school) && (
                             <>
                                 <img src="/images/gradCert.png" alt="graduateCert" loading="lazy" />
                                 <img src="/images/masters.png" alt="masters" loading="lazy" />

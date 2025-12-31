@@ -57,6 +57,13 @@
 			},
 			{
 				"id": 2,
+				"school": "Oxnard College",
+				"degree": "Cybersecurity Certificate",
+				"graduated": "May 2025",
+				"certificateImage": "/images/graduation-cert-oxnard.jpg"
+			},
+			{
+				"id": 3,
 				"school": "San Francisco State University",
 				"degree": "Graduate Certificate, Software Engineering",
 				"degree2": "Master's Degree, Kinesiology",
